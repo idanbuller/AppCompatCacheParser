@@ -36,9 +36,9 @@ from matplotlib import cycler
 ```
 
 Then, I chose to create 3 different modules - 
-Drivers - the most common drivers appearing in the csv file.
-Directories - the most common directories appearing in the csv file.
-Extensions - the most common file extensions appearing in the csv file.
+* Drivers - the most common drivers appearing in the csv file.
+* Directories - the most common directories appearing in the csv file.
+* Extensions - the most common file extensions appearing in the csv file.
 These modules will help us to initiate a fine view while analyzing the Shincache entries in the csv file. We will have a big picture information about the usage on the system before compromised.
 
 ## Most Common Drivers
