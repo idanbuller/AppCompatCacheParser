@@ -1,6 +1,6 @@
 # Analyzing Shimcache with python
 
-In this article, I am going to share a few important concepts about ShimCache and its value while investigating a Windows system offline. Also, we are going to extract this valuable information with a well-known tool made by Eric Zimmermann, and use a python-based addon I created especially for this workshop.
+In this project, I am going to share a few important concepts about ShimCache and its value while investigating a Windows system offline. Also, we are going to extract this valuable information with a well-known tool made by Eric Zimmermann, and use a python-based addon I created especially for this workshop.
 
 ## What are Shimcahe Artifacts?
 The Windows Shimcache was created by Microsoft beginning in Windows XP to track compatibility issues with executed programs. The cache stores various file metadata depending on the operating system, such as:
