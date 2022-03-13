@@ -1,0 +1,1025 @@
+ControlSet,CacheEntryPosition,Path,LastModifiedTimeUTC,Executed,Duplicate,SourceFile
+1,0,C:\Program Files\Fortinet\FortiClient\FortiTray.exe,2019-10-11 10:08:22,NA,False,Live Registry
+1,1,C:\Program Files\7-Zip\7zFM.exe,2019-02-21 16:00:00,NA,False,Live Registry
+1,2,C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Blend.exe,2021-08-13 14:36:17,NA,False,Live Registry
+1,3,C:\Users\john\Desktop\Everything\Forensics_tools\TimelineExplorer\TimelineExplorer.exe,2020-10-31 12:31:58,NA,False,Live Registry
+1,4,C:\WINDOWS\SysWOW64\DllHost.exe,2021-07-22 07:50:36,NA,False,Live Registry
+1,5,00000000	000f0049007c0000	000a000047ba0000	014c	Microsoft.SkypeApp	kzf8qxf38zg5c	,,NA,False,Live Registry
+1,6,C:\Users\john\Desktop\Everything\Forensics_tools\ShimCache\AppCompatCacheParser\AppCompatCacheParser.exe,2021-06-15 15:36:46,NA,False,Live Registry
+1,7,C:\Users\john\Downloads\AppCompatCacheParser\AppCompatCacheParser.exe,2021-06-15 15:36:46,NA,False,Live Registry
+1,8,C:\Program Files\DB Browser for SQLite\DB Browser for SQLite.exe,2021-05-02 14:13:26,NA,False,Live Registry
+1,9,C:\WINDOWS\system32\usoclient.exe,2021-07-22 07:50:11,NA,False,Live Registry
+1,10,C:\Program Files (x86)\Microsoft Visual Studio\Installer.a7acbb152b684df09e14e00f72163dd1\setup.exe,2021-08-13 11:49:06,NA,False,Live Registry
+1,11,C:\Users\john\AppData\Local\Temp\a7316c76cea74d3f8cbff3afb4b1e6b2\vs_setup_bootstrapper.exe,2021-08-13 11:48:37,NA,False,Live Registry
+1,12,C:\program files (x86)\microsoft visual studio\installer\setup.exe,2021-08-13 11:49:06,NA,False,Live Registry
+1,13,C:\WINDOWS\system32\SnippingTool.exe,2021-07-22 07:50:48,NA,False,Live Registry
+1,14,C:\Program Files (x86)\VMware\VMware Workstation\vmware-tray.exe,2020-06-04 21:20:00,NA,False,Live Registry
+1,15,C:\WINDOWS\SysWOW64\config\systemprofile\Citrix\UpdaterBinaries\299367f6-14c6-4d2e-a901-f077728165fe\CitrixReceiverUpdater.exe,2021-05-03 01:00:04,NA,False,Live Registry
+1,16,C:\Users\john\AppData\Local\Programs\Microsoft VS Code\Code.exe,2021-08-04 20:38:32,NA,False,Live Registry
+1,17,C:\Users\john\AppData\Local\Temp\5E29D528-E6EF-46B9-AC75-6837C7CEA213\dismhost.exe,2021-07-22 07:50:27,NA,False,Live Registry
+1,18,C:\Windows\Microsoft.NET\Framework64\v4.0.30319\cvtres.exe,2019-12-07 09:10:36,NA,False,Live Registry
+1,19,C:\Windows\Microsoft.NET\Framework64\v4.0.30319\csc.exe,2019-12-07 09:10:35,NA,False,Live Registry
+1,20,C:\WINDOWS\system32\SystemSettingsAdminFlows.exe,2021-07-22 07:50:12,NA,False,Live Registry
+1,21,C:\Program Files\Docker\Docker\Docker Desktop.exe,2020-02-21 08:43:43,NA,False,Live Registry
+1,22,C:\Program Files\Microsoft Office\root\Office16\ONENOTEM.EXE,2021-08-12 17:02:37,NA,False,Live Registry
+1,23,C:\Program Files\Microsoft Office\root\Office16\lync.exe,2021-08-12 17:02:29,NA,False,Live Registry
+1,24,C:\WINDOWS\system32\dwwin.exe,2021-07-22 07:50:43,NA,False,Live Registry
+1,25,C:\Users\john\AppData\Local\Temp\F5CFB01E-7ED6-4037-99BB-C097BCA873DC\dismhost.exe,2021-07-22 07:50:27,NA,False,Live Registry
+1,26,C:\Program Files\Dell\DellDataVault\nvapiw.exe,2021-07-13 09:56:06,NA,False,Live Registry
+1,27,C:\Program Files (x86)\CCleaner Browser\Application\92.0.11264.134\elevation_service.exe,2021-08-03 11:58:27,NA,False,Live Registry
+1,28,C:\Program Files (x86)\Dropbox\Update\1.3.503.1\DropboxCrashHandler.exe,2021-08-13 07:59:19,NA,False,Live Registry
+1,29,C:\WINDOWS\System32\wsqmcons.exe,2021-07-22 07:50:22,NA,False,Live Registry
+1,30,C:\WINDOWS\system32\msfeedssync.exe,2019-12-07 09:09:39,NA,False,Live Registry
+1,31,C:\Program Files (x86)\CCleaner Browser\Update\Install\{79CCCCA4-12EB-451F-8AE7-7AF33428AEF3}\CR_77348.tmp\setup.exe,2021-08-13 07:59:23,NA,False,Live Registry
+1,32,C:\Program Files (x86)\CCleaner Browser\Update\Install\{79CCCCA4-12EB-451F-8AE7-7AF33428AEF3}\CCleanerBrowserInstaller.exe,2021-08-13 07:59:12,NA,False,Live Registry
+1,33,C:\WINDOWS\TEMP\GUMA26D.tmp\DropboxUpdate.exe,2021-08-13 07:59:19,NA,False,Live Registry
+1,34,C:\Program Files (x86)\Dropbox\Update\Install\{B83448C9-5D5E-437E-A783-91D098DC8C0E}\DropboxUpdateSetup_1.3.503.1.exe,2021-07-26 09:37:02,NA,False,Live Registry
+1,35,C:\Windows\System32\wuapihost.exe,2019-12-07 09:08:33,NA,False,Live Registry
+1,36,C:\Windows\System32\CompPkgSrv.exe,2021-07-22 07:49:55,NA,False,Live Registry
+1,37,C:\Program Files\Common Files\Microsoft Shared\ClickToRun\Updates\16.0.14228.20250\OfficeClickToRun.exe,2021-08-05 18:06:40,NA,False,Live Registry
+1,38,C:\WINDOWS\system32\wbem\WmiApSrv.exe,2021-07-22 07:49:57,NA,False,Live Registry
+1,39,00000009	0003083a37e30000	000a00004a610000	8664	Microsoft.549981C3F5F10	8wekyb3d8bbwe	,,NA,False,Live Registry
+1,40,C:\Program Files (x86)\Notepad++\notepad++.exe,2019-10-27 22:11:38,NA,False,Live Registry
+1,41,C:\MinGW\bin\msgfilter.exe,2014-04-30 12:33:50,NA,False,Live Registry
+1,42,C:\MinGW\bin\msgexec.exe,2014-04-30 12:33:50,NA,False,Live Registry
+1,43,C:\MinGW\bin\msgen.exe,2014-04-30 12:33:50,NA,False,Live Registry
+1,44,C:\MinGW\bin\msgconv.exe,2014-04-30 12:33:49,NA,False,Live Registry
+1,45,C:\MinGW\bin\msgcomm.exe,2014-04-30 12:33:49,NA,False,Live Registry
+1,46,C:\MinGW\bin\msgcmp.exe,2014-04-30 12:33:49,NA,False,Live Registry
+1,47,C:\MinGW\bin\msgcat.exe,2014-04-30 12:33:49,NA,False,Live Registry
+1,48,C:\MinGW\bin\msgattrib.exe,2014-04-30 12:33:49,NA,False,Live Registry
+1,49,C:\MinGW\bin\msgunfmt.exe,2014-04-30 12:33:49,NA,False,Live Registry
+1,50,C:\MinGW\bin\mingw-get.exe,2017-09-05 15:05:15,NA,False,Live Registry
+1,51,C:\MinGW\bin\msgmerge.exe,2014-04-30 12:33:49,NA,False,Live Registry
+1,52,C:\MinGW\bin\mingw32-make.exe,2012-09-02 00:42:28,NA,False,Live Registry
+1,53,C:\MinGW\bin\objdump.exe,2017-05-22 10:18:42,NA,False,Live Registry
+1,54,C:\MinGW\bin\msginit.exe,2014-04-30 12:33:50,NA,False,Live Registry
+1,55,C:\MinGW\bin\objcopy.exe,2017-05-22 10:18:43,NA,False,Live Registry
+1,56,C:\MinGW\bin\strip.exe,2017-05-22 10:18:43,NA,False,Live Registry
+1,57,C:\MinGW\bin\msggrep.exe,2014-04-30 12:33:50,NA,False,Live Registry
+1,58,C:\MinGW\bin\nm.exe,2017-05-22 10:18:43,NA,False,Live Registry
+1,59,C:\MinGW\bin\readelf.exe,2017-05-22 10:18:43,NA,False,Live Registry
+1,60,C:\MinGW\bin\msgfmt.exe,2014-04-30 12:33:49,NA,False,Live Registry
+1,61,C:\MinGW\bin\msguniq.exe,2014-04-30 12:33:50,NA,False,Live Registry
+1,62,C:\MinGW\bin\ngettext.exe,2014-04-30 12:33:47,NA,False,Live Registry
+1,63,C:\MinGW\bin\ranlib.exe,2017-05-22 10:18:43,NA,False,Live Registry
+1,64,C:\MinGW\bin\recode-sr-latin.exe,2014-04-30 12:33:50,NA,False,Live Registry
+1,65,C:\MinGW\bin\size.exe,2017-05-22 10:18:42,NA,False,Live Registry
+1,66,C:\MinGW\bin\addr2line.exe,2017-05-22 10:18:43,NA,False,Live Registry
+1,67,C:\MinGW\bin\ar.exe,2017-05-22 10:18:42,NA,False,Live Registry
+1,68,C:\MinGW\bin\as.exe,2017-05-22 10:18:44,NA,False,Live Registry
+1,69,C:\WINDOWS\system32\NOTEPAD.EXE,2021-07-22 07:51:07,NA,False,Live Registry
+1,70,C:\MinGW\bin\strings.exe,2017-05-22 10:18:42,NA,False,Live Registry
+1,71,C:\Program Files\Common Files\Microsoft Shared\ClickToRun\OfficeC2RClient.exe,2021-08-06 12:56:08,NA,False,Live Registry
+1,72,C:\Windows\System32\xwizard.exe,2019-12-07 09:09:51,NA,False,Live Registry
+1,73,C:\Windows\System32\xcopy.exe,2019-12-07 09:09:34,NA,False,Live Registry
+1,74,C:\Users\john\Desktop\Everything\Forensics_tools\Prefetch\winprefetchview-x64\WinPrefetchView.exe,2020-02-11 12:18:38,NA,False,Live Registry
+1,75,C:\Users\john\AppData\Roaming\Microsoft\Installer\{A92EA95D-8603-4C3D-A3F1-E561CCFDE269}\_99DCAEEB36F7D559481D05.exe,2021-07-07 11:03:50,NA,False,Live Registry
+1,76,C:\Program Files (x86)\Dropbox\Client\Dropbox.exe,2021-08-05 20:37:10,NA,False,Live Registry
+1,77,C:\Program Files\WinRAR\WinRAR.exe,2019-12-11 09:17:37,NA,False,Live Registry
+1,78,C:\Users\john\AppData\Local\Programs\Python\Python38-32\python.exe,2019-10-14 17:42:42,NA,False,Live Registry
+1,79,C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\devenv.exe,2021-08-13 14:36:17,NA,False,Live Registry
+1,80,C:\WINDOWS\System32\DriverStore\FileRepository\igdlh64.inf_amd64_45855586d601d062\igfxext.exe,2021-01-19 17:56:58,NA,False,Live Registry
+1,81,C:\WINDOWS\TEMP\invF1C_tmp\Novatek\Rom_Check_Aux_Tool.exe,2021-05-24 07:32:41,NA,False,Live Registry
+1,82,C:\WINDOWS\TEMP\invF1C_tmp\Dell_OSRI\Dell_OSRI_CIC.exe,2021-05-24 07:32:40,NA,False,Live Registry
+1,83,C:\WINDOWS\TEMP\invF1C_tmp\Dell_DBUtilPackageInstaller\Dell_DBUtilPackageInstaller.exe,2021-06-25 04:10:02,NA,False,Live Registry
+1,84,C:\WINDOWS\TEMP\invF1C_tmp\Dell_ThermalCIC\Dell_ThermalPpkgInstaller.exe,2021-07-08 02:27:05,NA,False,Live Registry
+1,85,C:\WINDOWS\TEMP\invF1C_tmp\ExtensionINFINV\EXTDRVRInv.exe,2021-05-24 07:32:40,NA,False,Live Registry
+1,86,C:\WINDOWS\TEMP\invF1C_tmp\AppxInventory\APPXInventory.exe,2021-05-24 07:32:40,NA,False,Live Registry
+1,87,C:\WINDOWS\TEMP\invF1C_tmp\SoftCompInv\SOFTWARECOMPONENTInv.exe,2021-05-24 07:32:41,NA,False,Live Registry
+1,88,C:\WINDOWS\TEMP\invF1C_tmp\TBT_Dock_Firmware\GetDockVer32W.exe,2021-07-08 02:30:19,NA,False,Live Registry
+1,89,C:\WINDOWS\TEMP\invF1C_tmp\RegMSI\Reg-MSI_Inventory.exe,2021-05-24 07:32:41,NA,False,Live Registry
+1,90,C:\WINDOWS\TEMP\invF1C_tmp\Thunderbolt_Reg\Executables\DRVUpdate.exe,2021-07-08 02:28:41,NA,False,Live Registry
+1,91,C:\WINDOWS\TEMP\invF1C_tmp\SalomonDock\SalomonDock.exe,2021-05-24 07:32:41,NA,False,Live Registry
+1,92,C:\WINDOWS\TEMP\invF1C_tmp\Thunderbolt_Reg\TB_Controller_new\..\ThunderboltRegModule.exe,2021-07-08 02:28:52,NA,False,Live Registry
+1,93,C:\WINDOWS\TEMP\invF1C_tmp\Thunderbolt_Reg\RLtek_USB_Driver\..\ThunderboltRegModule.exe,2021-07-08 02:28:52,NA,False,Live Registry
+1,94,C:\WINDOWS\TEMP\invF1C_tmp\Thunderbolt_Reg\ASMedia_USB_Controller\..\ThunderboltRegModule.exe,2021-07-08 02:28:52,NA,False,Live Registry
+1,95,C:\WINDOWS\TEMP\invF1C_tmp\Thunderbolt_Reg\RLtek_USB_Driver_WOW\..\ThunderboltRegModule.exe,2021-07-08 02:28:52,NA,False,Live Registry
+1,96,C:\WINDOWS\TEMP\invF1C_tmp\Thunderbolt_Reg\TB_Firmware\..\ThunderboltRegModule.exe,2021-07-08 02:28:52,NA,False,Live Registry
+1,97,C:\WINDOWS\TEMP\invF1C_tmp\Thunderbolt_Reg\RLtek_Ethernate\..\ThunderboltRegModule.exe,2021-07-08 02:28:52,NA,False,Live Registry
+1,98,C:\WINDOWS\TEMP\invF1C_tmp\Executables\Appupdate.exe,2021-07-08 02:28:43,NA,False,Live Registry
+1,99,C:\WINDOWS\TEMP\invF1C_tmp\Executables\PNPUpdate.exe,2021-07-08 02:28:45,NA,False,Live Registry
+1,100,C:\WINDOWS\TEMP\invF1C_tmp\Thunderbolt_Reg\ThunderboltZeroInv.exe,2021-07-08 02:28:58,NA,False,Live Registry
+1,101,C:\WINDOWS\TEMP\invF1C_tmp\SCSI_ODD\SCSIupdate.exe,2021-05-24 07:32:41,NA,False,Live Registry
+1,102,C:\WINDOWS\TEMP\invF1C_tmp\Executables\SSDUpdate.exe,2021-07-08 02:28:46,NA,False,Live Registry
+1,103,C:\WINDOWS\TEMP\invF1C_tmp\Executables\UsbUpdate.exe,2021-07-08 02:28:44,NA,False,Live Registry
+1,104,C:\WINDOWS\TEMP\invF1C_tmp\OSINV\osinv.exe,2021-07-08 02:30:14,NA,False,Live Registry
+1,105,C:\WINDOWS\TEMP\invF1C_tmp\Executables\DRVUpdate.exe,2021-07-08 02:28:41,NA,False,Live Registry
+1,106,C:\WINDOWS\TEMP\invF1C_tmp\libsmbios\smbiosinfo.exe,2021-07-08 02:30:15,NA,False,Live Registry
+1,107,C:\WINDOWS\TEMP\invF1C_tmp\invcol.exe,2021-07-08 02:30:10,NA,False,Live Registry
+1,108,C:\WINDOWS\system32\vssvc.exe,2021-07-22 07:50:12,NA,False,Live Registry
+1,109,C:\Users\john\AppData\Local\Temp\5E7228BA-0ACA-45EB-8330-8256156E6BBB\dismhost.exe,2021-07-22 07:50:27,NA,False,Live Registry
+1,110,C:\WINDOWS\system32\cleanmgr.exe,2021-07-22 07:50:43,NA,False,Live Registry
+1,111,C:\Windows\System32\smartscreen.exe,2021-07-22 07:50:00,NA,False,Live Registry
+1,112,C:\Users\john\Desktop\Everything\Forensics_tools\Collectors\LiveResponseCollection-Cedarpelta\Windows_Live_Response\Tools\unxutils\sha256sum.exe,2017-02-14 00:05:46,NA,False,Live Registry
+1,113,C:\Users\john\Desktop\Everything\Forensics_tools\Collectors\LiveResponseCollection-Cedarpelta\Windows_Live_Response\Tools\unxutils\sha384sum.exe,2017-02-14 00:05:46,NA,False,Live Registry
+1,114,C:\Users\john\Desktop\Everything\Forensics_tools\Collectors\LiveResponseCollection-Cedarpelta\Windows_Live_Response\Tools\unxutils\sha512sum.exe,2017-02-14 00:05:46,NA,False,Live Registry
+1,115,C:\Users\john\Desktop\Everything\Forensics_tools\Collectors\LiveResponseCollection-Cedarpelta\Windows_Live_Response\Tools\unxutils\tar.exe,2017-02-14 00:05:46,NA,False,Live Registry
+1,116,C:\Users\john\Desktop\Everything\Forensics_tools\Collectors\LiveResponseCollection-Cedarpelta\Windows_Live_Response\Tools\unxutils\bunzip2.exe,2017-02-14 00:05:44,NA,False,Live Registry
+1,117,C:\Users\john\Desktop\Everything\Forensics_tools\Collectors\LiveResponseCollection-Cedarpelta\Windows_Live_Response\Tools\unxutils\uname.exe,2017-02-14 00:05:46,NA,False,Live Registry
+1,118,C:\Users\john\Desktop\Everything\Forensics_tools\Collectors\LiveResponseCollection-Cedarpelta\Windows_Live_Response\Tools\unxutils\dd.exe,2017-02-14 00:05:44,NA,False,Live Registry
+1,119,C:\Users\john\Desktop\Everything\Forensics_tools\Collectors\LiveResponseCollection-Cedarpelta\Windows_Live_Response\Tools\unxutils\unzip.exe,2017-02-14 00:05:46,NA,False,Live Registry
+1,120,C:\Users\john\Desktop\Everything\Forensics_tools\Collectors\LiveResponseCollection-Cedarpelta\Windows_Live_Response\Tools\unxutils\grep.exe,2017-02-14 00:05:44,NA,False,Live Registry
+1,121,C:\Users\john\Desktop\Everything\Forensics_tools\Collectors\LiveResponseCollection-Cedarpelta\Windows_Live_Response\Tools\unxutils\wget.exe,2017-02-14 00:05:46,NA,False,Live Registry
+1,122,C:\Users\john\Desktop\Everything\Forensics_tools\Collectors\LiveResponseCollection-Cedarpelta\Windows_Live_Response\Tools\unxutils\sha1sum.exe,2017-02-14 00:05:44,NA,False,Live Registry
+1,123,C:\Users\john\Desktop\Everything\Forensics_tools\Collectors\LiveResponseCollection-Cedarpelta\Windows_Live_Response\Tools\unxutils\md5sum.exe,2017-02-14 00:05:44,NA,False,Live Registry
+1,124,C:\Users\john\Desktop\Everything\Forensics_tools\Collectors\LiveResponseCollection-Cedarpelta\Windows_Live_Response\Tools\unxutils\whoami.exe,2017-02-14 00:05:46,NA,False,Live Registry
+1,125,C:\Users\john\Desktop\Everything\Forensics_tools\Collectors\LiveResponseCollection-Cedarpelta\Windows_Live_Response\Tools\unxutils\pclip.exe,2017-02-14 00:05:44,NA,False,Live Registry
+1,126,C:\Users\john\Desktop\Everything\Forensics_tools\Collectors\LiveResponseCollection-Cedarpelta\Windows_Live_Response\Tools\unxutils\sha224sum.exe,2017-02-14 00:05:46,NA,False,Live Registry
+1,127,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\92.0.902.67\msedgewebview2.exe,2021-08-05 06:44:50,NA,False,Live Registry
+1,128,C:\Program Files\Microsoft Office\Root\Office16\EXCEL.EXE,2021-08-12 17:02:25,NA,False,Live Registry
+1,129,C:\Program Files\Microsoft Office\Root\Office16\WINWORD.EXE,2021-08-07 14:33:14,NA,False,Live Registry
+1,130,C:\Program Files\CCleaner\CCleaner64.exe,2021-05-20 11:37:18,NA,False,Live Registry
+1,131,C:\WINDOWS\explorer.exe,2021-07-22 07:49:57,NA,False,Live Registry
+1,132,C:\Program Files (x86)\CheckPoint\Endpoint Connect\DAAW.exe,2019-12-04 15:05:20,NA,False,Live Registry
+1,133,C:\Program Files (x86)\Citrix\ICA Client\SelfServicePlugin\SelfService.exe,2021-05-03 00:46:10,NA,False,Live Registry
+1,134,C:\Program Files (x86)\CCleaner Browser\Application\CCleanerBrowser.exe,2021-08-03 11:58:23,NA,False,Live Registry
+1,135,C:\Users\john\Desktop\Everything\Forensics_tools\Malware Analysis\pestudio\pestudio.exe,2021-07-16 12:21:32,NA,False,Live Registry
+1,136,C:\Program Files (x86)\Log Parser 2.2\LogParser.exe,2005-03-17 14:17:26,NA,False,Live Registry
+1,137,C:\WINDOWS\system32\SearchProtocolHost.exe,2021-07-22 07:50:07,NA,False,Live Registry
+1,138,C:\SysInternals\Autoruns64.exe,2019-11-27 10:04:16,NA,False,Live Registry
+1,139,C:\SysInternals\Autoruns.exe,2019-11-27 10:04:16,NA,False,Live Registry
+1,140,C:\SysInternals\notmyfaultc64.exe,2019-11-27 10:04:16,NA,False,Live Registry
+1,141,C:\SysInternals\notmyfaultc.exe,2019-11-27 10:04:16,NA,False,Live Registry
+1,142,C:\SysInternals\notmyfault64.exe,2019-11-27 10:04:16,NA,False,Live Registry
+1,143,C:\SysInternals\pendmoves64.exe,2019-11-27 10:04:15,NA,False,Live Registry
+1,144,C:\SysInternals\procdump64.exe,2019-11-27 10:04:15,NA,False,Live Registry
+1,145,C:\SysInternals\pendmoves.exe,2019-11-27 10:04:15,NA,False,Live Registry
+1,146,C:\SysInternals\notmyfault.exe,2019-11-27 10:04:16,NA,False,Live Registry
+1,147,C:\SysInternals\procdump.exe,2019-11-27 10:04:15,NA,False,Live Registry
+1,148,C:\SysInternals\movefile64.exe,2019-11-27 10:04:15,NA,False,Live Registry
+1,149,C:\SysInternals\psfile64.exe,2019-11-27 10:04:15,NA,False,Live Registry
+1,150,C:\SysInternals\pagedfrg.exe,2019-11-27 10:04:15,NA,False,Live Registry
+1,151,C:\SysInternals\ntfsinfo.exe,2019-11-27 10:04:15,NA,False,Live Registry
+1,152,C:\SysInternals\procexp64.exe,2019-11-27 10:04:16,NA,False,Live Registry
+1,153,C:\SysInternals\ntfsinfo64.exe,2019-11-27 10:04:15,NA,False,Live Registry
+1,154,C:\SysInternals\pipelist.exe,2019-11-27 10:04:15,NA,False,Live Registry
+1,155,C:\SysInternals\pipelist64.exe,2019-11-27 10:04:15,NA,False,Live Registry
+1,156,C:\SysInternals\portmon.exe,2019-11-27 10:04:15,NA,False,Live Registry
+1,157,C:\SysInternals\procexp.exe,2019-11-27 10:04:16,NA,False,Live Registry
+1,158,C:\SysInternals\PsExec.exe,2019-11-27 10:04:15,NA,False,Live Registry
+1,159,C:\SysInternals\PsExec64.exe,2019-11-27 10:04:15,NA,False,Live Registry
+1,160,C:\SysInternals\psfile.exe,2019-11-27 10:04:15,NA,False,Live Registry
+1,161,C:\SysInternals\autorunsc.exe,2019-11-27 10:04:16,NA,False,Live Registry
+1,162,C:\SysInternals\autorunsc64.exe,2019-11-27 10:04:16,NA,False,Live Registry
+1,163,C:\SysInternals\Bginfo.exe,2019-11-27 10:04:16,NA,False,Live Registry
+1,164,C:\SysInternals\Bginfo64.exe,2019-11-27 10:04:16,NA,False,Live Registry
+1,165,C:\SysInternals\Cacheset.exe,2019-11-27 10:04:14,NA,False,Live Registry
+1,166,C:\SysInternals\Clockres.exe,2019-11-27 10:04:14,NA,False,Live Registry
+1,167,C:\SysInternals\Clockres64.exe,2019-11-27 10:04:14,NA,False,Live Registry
+1,168,C:\SysInternals\ADExplorer.exe,2019-11-27 10:04:14,NA,False,Live Registry
+1,169,C:\SysInternals\Contig.exe,2019-11-27 10:04:14,NA,False,Live Registry
+1,170,C:\SysInternals\Contig64.exe,2019-11-27 10:04:14,NA,False,Live Registry
+1,171,C:\SysInternals\ADInsight.exe,2019-11-27 10:04:14,NA,False,Live Registry
+1,172,C:\SysInternals\Coreinfo.exe,2019-11-27 10:04:14,NA,False,Live Registry
+1,173,C:\SysInternals\adrestore.exe,2019-11-27 10:04:14,NA,False,Live Registry
+1,174,C:\SysInternals\ctrl2cap.exe,2019-11-27 10:04:15,NA,False,Live Registry
+1,175,C:\SysInternals\accesschk.exe,2019-11-27 10:04:14,NA,False,Live Registry
+1,176,C:\SysInternals\AccessEnum.exe,2019-11-27 10:04:14,NA,False,Live Registry
+1,177,C:\SysInternals\Autologon.exe,2019-11-27 10:04:14,NA,False,Live Registry
+1,178,C:\SysInternals\accesschk64.exe,2019-11-27 10:04:14,NA,False,Live Registry
+1,179,C:\WINDOWS\system32\MusNotifyIcon.exe,2021-07-22 07:50:12,NA,False,Live Registry
+1,180,C:\Program Files (x86)\Google\Chrome\Application\chrome.exe,2021-07-30 21:11:09,NA,False,Live Registry
+1,181,C:\Users\john\Desktop\Everything\Forensics_tools\rr_2.02\rr.exe,2008-05-12 09:54:28,NA,False,Live Registry
+1,182,C:\Users\john\Desktop\Everything\Forensics_tools\rr_2.02\rip.exe,2008-05-12 09:54:52,NA,False,Live Registry
+1,183,C:\Windows\SystemApps\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\Application,2021-07-22 03:22:47,NA,False,Live Registry
+1,184,C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\Application,2021-07-22 03:22:43,NA,False,Live Registry
+1,185,C:\Users\john\Desktop\Everything\Forensics_tools\$I_Parse_v1.1\$I_Parse.exe,2017-11-17 14:14:28,NA,False,Live Registry
+1,186,C:\Program Files (x86)\Redline\Redline.exe,2020-04-27 08:58:06,NA,False,Live Registry
+1,187,C:\WINDOWS\system32\SearchFilterHost.exe,2021-07-22 07:50:07,NA,False,Live Registry
+1,188,C:\Windows\System32\RuntimeBroker.exe,2021-07-22 07:50:02,NA,False,Live Registry
+1,189,C:\Windows\SystemApps\Microsoft.AAD.BrokerPlugin_cw5n1h2txyewy\Application,2021-07-22 03:22:30,NA,False,Live Registry
+1,190,C:\Windows\Installer\{356BAB50-AA8B-4390-BE39-FAC9F9D1E7AE}\_1E77005D970C18DDCA3C84.exe,2021-08-11 20:31:15,NA,False,Live Registry
+1,191,C:\Windows\Installer\{356BAB50-AA8B-4390-BE39-FAC9F9D1E7AE}\_5D7B4D2F7AAA38A32CB644.exe,2021-08-11 20:31:15,NA,False,Live Registry
+1,192,C:\Users\john\AppData\Roaming\Zoom\bin\Zoom.exe,2021-08-02 06:43:56,NA,False,Live Registry
+1,193,C:\Users\john\AppData\Local\exodus\Exodus.exe,2021-08-01 14:07:29,NA,False,Live Registry
+1,194,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,2021-08-05 06:45:01,NA,False,Live Registry
+1,195,C:\Program Files (x86)\TeamViewer\TeamViewer.exe,2020-12-14 14:40:03,NA,False,Live Registry
+1,196,C:\Program Files\McAfee Security Scan\3.11.1924\McUICnt.exe,2020-08-07 12:12:20,NA,False,Live Registry
+1,197,C:\Program Files (x86)\VMware\VMware Workstation\vmware.exe,2020-06-04 21:19:56,NA,False,Live Registry
+1,198,C:\Users\john\Desktop\Everything\Forensics_tools\EvtxExplorer\EvtxECmd.exe,2021-07-07 17:00:34,NA,False,Live Registry
+1,199,C:\Users\john\Desktop\Everything\Forensics_tools\VSCMount\VSCMount.exe,2020-02-06 21:08:28,NA,False,Live Registry
+1,200,C:\WINDOWS\system32\consent.exe,2021-07-22 07:50:21,NA,False,Live Registry
+1,201,C:\Users\john\Downloads\winprefetchview-x64\WinPrefetchView.exe,2020-02-11 12:18:38,NA,False,Live Registry
+1,202,C:\WINDOWS\system32\MusNotificationUx.exe,2021-07-22 07:50:12,NA,False,Live Registry
+1,203,C:\Program Files\CCleaner\CCUpdate.exe,2021-05-20 11:37:34,NA,False,Live Registry
+1,204,C:\WINDOWS\winsxs\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.19041.1161_none_7e3076a27c733477\TiWorker.exe,2021-07-15 03:57:58,NA,False,Live Registry
+1,205,C:\WINDOWS\system32\MusNotification.exe,2021-07-22 07:50:11,NA,False,Live Registry
+1,206,C:\WINDOWS\system32\MRT.exe,2021-08-11 18:34:56,NA,False,Live Registry
+1,207,C:\$WinREAgent\Scratch\81BBB960-3294-4EA1-B2F8-7B1B03DC696A\dismhost.exe,2021-07-22 07:50:27,NA,False,Live Registry
+1,208,C:\WINDOWS\SoftwareDistribution\Download\Install\Windows-KB890830-x64-V5.92.exe,2021-08-11 18:34:49,NA,False,Live Registry
+1,209,C:\Program Files\WindowsApps\king.com.CandyCrushSodaSaga_1.199.200.0_x86__kgqvnymyfvs32\Application,2021-08-11 16:50:59,NA,False,Live Registry
+1,210,00000000	000100c700c80000	000a000047ba0000	014c	king.com.CandyCrushSodaSaga	kgqvnymyfvs32	,,NA,False,Live Registry
+1,211,00000000	000100c700c80000	000a000047ba0000	8664	king.com.CandyCrushSodaSaga	kgqvnymyfvs32	,,NA,False,Live Registry
+1,212,00000000	0001082000010000	000a00004a610000	8664	king.com.CandyCrushSaga	kgqvnymyfvs32	,,NA,False,Live Registry
+1,213,00000009	0003000029df0000	000a000047ba0000	8664	A97ECD55.KYOCERAPrintCenter	kqmhh0ktdt7dg	,,NA,False,Live Registry
+1,214,00000009	3e8537f64e7a0000	000a00004a640000	8664	microsoft.windowscommunicationsapps	8wekyb3d8bbwe	,,NA,False,Live Registry
+1,215,C:\Program Files\WindowsApps\microsoft.windowscommunicationsapps_16005.14326.20090.0_x64__8wekyb3d8bbwe\Application,2021-08-11 16:48:42,NA,False,Live Registry
+1,216,00000009	3e8537f64e7a0000	000a00004c610000	8664	microsoft.windowscommunicationsapps	8wekyb3d8bbwe	,,NA,False,Live Registry
+1,217,C:\Program Files\WindowsApps\Microsoft.WindowsFeedbackHub_1.2106.1801.0_x64__8wekyb3d8bbwe\Application,2021-08-11 16:48:21,NA,False,Live Registry
+1,218,00000009	0001083a07090000	000a00004c980000	8664	Microsoft.WindowsFeedbackHub	8wekyb3d8bbwe	,,NA,False,Live Registry
+1,219,00000009	0002f29b17720000	000a000047ba0000	8664	Microsoft.UI.Xaml.2.6	8wekyb3d8bbwe	,,NA,False,Live Registry
+1,220,00000000	0002f29b17720000	000a000047ba0000	8664	Microsoft.UI.Xaml.2.6	8wekyb3d8bbwe	,,NA,False,Live Registry
+1,221,C:\Users\john\AppData\Local\Temp\99C74874-4286-409F-974D-7B0005229266\dismhost.exe,2021-07-22 07:50:27,NA,False,Live Registry
+1,222,C:\WINDOWS\system32\DellTPad\Apoint.exe,2019-12-12 14:25:46,NA,False,Live Registry
+1,223,C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorsvw.exe,2020-12-02 22:38:14,NA,False,Live Registry
+1,224,C:\Users\john\AppData\Local\Temp\D43B27AB-1A29-45C9-9C52-7E9CBF6F37E2\dismhost.exe,2021-07-22 07:50:27,NA,False,Live Registry
+1,225,C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe,2020-12-02 22:45:24,NA,False,Live Registry
+1,226,C:\Windows\Microsoft.NET\Framework64\v4.0.30319\NGenTask.exe,2020-12-02 22:38:14,NA,False,Live Registry
+1,227,C:\WINDOWS\system32\compattelrunner.exe,2021-07-22 07:50:15,NA,False,Live Registry
+1,228,C:\WINDOWS\SysWOW64\expand.exe,2019-12-07 09:09:26,NA,False,Live Registry
+1,229,C:\WINDOWS\System32\expand.exe,2019-12-07 09:08:52,NA,False,Live Registry
+1,230,C:\PROGRA~2\Citrix\ICA Client\WFICA32.EXE,2021-04-20 06:30:40,NA,False,Live Registry
+1,231,C:\Program Files (x86)\Citrix\ICA Client\wfica32.exe,2021-04-20 06:30:40,NA,False,Live Registry
+1,232,C:\WINDOWS\system32\LogonUI.exe,2019-12-07 09:08:19,NA,False,Live Registry
+1,233,C:\WINDOWS\system32\whoami.exe,2019-12-07 09:09:51,NA,False,Live Registry
+1,234,C:\WINDOWS\system32\chcp.com,2019-12-07 09:09:37,NA,False,Live Registry
+1,235,C:\Program Files\Palo Alto Networks\Traps\CyveraConsole.exe,2021-05-30 09:15:28,NA,False,Live Registry
+1,236,C:\ProgramData\Cyvera\LocalSystem\Download\payload_execution\cortex-xdr-payload.exe,2021-08-08 14:09:54,NA,False,Live Registry
+1,237,C:\Windows\Downloaded Program Files\wa_3rd_party_host_32.exe,2021-01-19 02:50:32,NA,False,Live Registry
+1,238,C:\Program Files\Palo Alto Networks\Traps\cytool.exe,2021-05-30 09:15:36,NA,False,Live Registry
+1,239,C:\Windows\Downloaded Program Files\F5PolicyServer.exe,2020-01-08 10:12:28,NA,False,Live Registry
+1,240,C:\Windows\Downloaded Program Files\F5Win32CheckHelper.exe,2020-01-08 10:25:06,NA,False,Live Registry
+1,241,C:\Windows\Downloaded Program Files\f5epi.exe,2020-01-08 10:12:30,NA,False,Live Registry
+1,242,0000000b	005c000003860043	000c000000000000	8664	Microsoft.MicrosoftEdge.Stable	8wekyb3d8bbwe	,,NA,False,Live Registry
+1,243,C:\Program Files (x86)\Microsoft\Edge\Application\92.0.902.67\identity_helper.exe,2021-08-05 06:44:50,NA,False,Live Registry
+1,244,C:\Users\john\AppData\Local\Temp\1C87846A-487E-4BFD-B569-5433DFACA8B2\dismhost.exe,2021-07-22 07:50:27,NA,False,Live Registry
+1,245,C:\Program Files (x86)\Microsoft\Edge\Application\92.0.902.67\BHO\ie_to_edge_stub.exe,2021-08-05 06:44:50,NA,False,Live Registry
+1,246,C:\WINDOWS\system32\IESettingSync.exe,2021-07-22 07:50:46,NA,False,Live Registry
+1,247,C:\Program Files (x86)\Internet Explorer\IEXPLORE.EXE,2019-12-06 20:00:00,NA,False,Live Registry
+1,248,C:\Users\john\AppData\Local\Temp\FCFF92BC-C72A-4A85-A510-57CE3E3E3A45\dismhost.exe,2021-07-22 07:50:27,NA,False,Live Registry
+1,249,C:\WINDOWS\TEMP\2D24E319-8840-4880-80A6-A8594B526CCD\dismhost.exe,2021-07-22 07:50:27,NA,False,Live Registry
+1,250,C:\WINDOWS\system32\taskhostw.exe,2021-07-22 07:50:22,NA,False,Live Registry
+1,251,C:\Windows\System32\mousocoreworker.exe,2021-07-22 07:50:11,NA,False,Live Registry
+1,252,C:\WINDOWS\system32\SearchIndexer.exe,2021-07-22 07:50:07,NA,False,Live Registry
+1,253,C:\WINDOWS\TEMP\C3CECA05-8F96-4DF7-94D6-2669C79D9C8F\dismhost.exe,2021-07-22 07:50:27,NA,False,Live Registry
+1,254,C:\Program Files (x86)\ExpressVPN\expressvpnd\expressvpnd.exe,2019-11-01 02:23:14,NA,False,Live Registry
+1,255,C:\Program Files (x86)\TeamViewer\TeamViewer_Service.exe,2020-12-14 14:40:06,NA,False,Live Registry
+1,256,C:\Program Files (x86)\ExpressVPN\bootstrap\amd64\nssm.exe,2019-11-01 02:25:06,NA,False,Live Registry
+1,257,C:\WINDOWS\System32\DriverStore\FileRepository\igdlh64.inf_amd64_45855586d601d062\IntelCpHeciSvc.exe,2021-01-19 17:57:14,NA,False,Live Registry
+1,258,C:\WINDOWS\System32\DriverStore\FileRepository\igdlh64.inf_amd64_45855586d601d062\IntelCpHDCPSvc.exe,2021-01-19 17:57:12,NA,False,Live Registry
+1,259,00000009	007808a40dca0000	000a00007fff0000	8664	MicrosoftWindows.Client.CBS	cw5n1h2txyewy	,,NA,False,Live Registry
+1,260,C:\Users\john\AppData\Local\Temp\E1102C98-1691-4C05-93A9-7D2A20373783\dismhost.exe,2021-07-22 07:50:27,NA,False,Live Registry
+1,261,C:\WINDOWS\SysWOW64\config\systemprofile\Citrix\UpdaterBinaries\56d9477e-f7ab-4c73-91ef-cd7cb361c3ac\CitrixReceiverUpdater.exe,2021-05-03 01:00:04,NA,False,Live Registry
+1,262,00000009	000a524527890000	000a00004bc80000	8664	Microsoft.ZuneVideo	8wekyb3d8bbwe	,,NA,False,Live Registry
+1,263,00000009	0001083704940000	000a00004c980000	8664	Microsoft.WindowsFeedbackHub	8wekyb3d8bbwe	,,NA,False,Live Registry
+1,264,C:\Users\john\AppData\Local\Temp\58F825C9-66E1-4145-9B0E-B3DD1570941E\dismhost.exe,2021-07-22 07:50:27,NA,False,Live Registry
+1,265,00000009	3e85347251b80000	000a00004c610000	8664	microsoft.windowscommunicationsapps	8wekyb3d8bbwe	,,NA,False,Live Registry
+1,266,D:\Rapid7Setup-Windows64.exe,2020-10-19 07:43:04,NA,False,Live Registry
+1,267,C:\WINDOWS\system32\DrvInst.exe,2021-07-22 07:50:24,NA,False,Live Registry
+1,268,C:\Program Files\WindowsApps\Microsoft.WindowsAlarms_10.2101.28.0_x64__8wekyb3d8bbwe\Application,2021-06-09 07:46:37,NA,False,Live Registry
+1,269,00000009	000a0835001c0000	000a000045630000	8664	Microsoft.WindowsAlarms	8wekyb3d8bbwe	,,NA,False,Live Registry
+1,270,C:\Users\john\AppData\Local\Temp\34006B3F-DAA2-42EF-8289-FFB0F5A47167\dismhost.exe,2021-07-22 07:50:27,NA,False,Live Registry
+1,271,C:\Program Files (x86)\Microsoft Visual Studio\Installer.d816e98e91b646b898b4f3a4c3521b47\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-08-08 18:33:56,NA,False,Live Registry
+1,272,C:\Users\john\Desktop\Everything\Forensics_tools\PECmd\PECmd.exe,2021-03-20 15:58:28,NA,False,Live Registry
+1,273,C:\Windows\HelpPane.exe,2021-07-22 07:50:44,NA,False,Live Registry
+1,274,C:\Windows\hh.exe,2019-12-07 09:09:39,NA,False,Live Registry
+1,275,C:\Windows\bfsvc.exe,2021-07-22 07:49:56,NA,False,Live Registry
+1,276,C:\Program Files\Dell\SupportAssistAgent\PCD\SupportAssist\pcdrsysinfobluetooth.p5x,2021-07-05 19:55:50,NA,False,Live Registry
+1,277,00000000	000f0049007c0000	000a000047ba0000	8664	Microsoft.SkypeApp	kzf8qxf38zg5c	,,NA,False,Live Registry
+1,278,C:\Program Files\Microsoft Office\root\Office16\lynchtmlconv.exe,2021-08-12 17:02:31,NA,False,Live Registry
+1,279,C:\WINDOWS\SysWOW64\reg.exe,2019-12-07 09:09:57,NA,False,Live Registry
+1,280,C:\Program Files\WindowsApps\Microsoft.SkypeApp_15.73.124.0_x86__kzf8qxf38zg5c\Skype\Skype.exe,2021-07-16 06:45:50,NA,False,Live Registry
+1,281,C:\Windows\System32\icacls.exe,2019-12-07 09:09:33,NA,False,Live Registry
+1,282,C:\Users\john\AppData\Local\Temp\is-8AGGQ.tmp\CodeSetup-stable-379476f0e13988d90fab105c5c19e7abc8b1dea8.tmp,2021-08-08 18:41:07,NA,False,Live Registry
+1,283,C:\Users\john\AppData\Local\Temp\vscode-update-user-x64\CodeSetup-stable-379476f0e13988d90fab105c5c19e7abc8b1dea8.exe,2021-08-08 18:41:03,NA,False,Live Registry
+1,284,C:\WINDOWS\system32\rmclient.exe,2019-12-07 09:09:07,NA,False,Live Registry
+1,285,C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\common7\ide\DDConfigCA.exe,2020-10-19 16:16:07,NA,False,Live Registry
+1,286,C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\common7\ide\vsfinalizer.exe,2020-10-19 16:16:10,NA,False,Live Registry
+1,287,C:\ProgramData\Package Cache\{74d0e5db-b326-4dae-a6b2-445b9de1836e}\VC_redist.x86.exe,2021-06-27 07:16:22,NA,False,Live Registry
+1,288,C:\WINDOWS\Temp\{BB1FA4DA-C4FF-4235-91AB-AE79C5053A38}\.be\VC_redist.x86.exe,2021-08-08 18:34:45,NA,False,Live Registry
+1,289,C:\WINDOWS\Temp\{AA4723E9-E9AD-486F-91C3-5304B934A165}\.cr\VC_redist.x86.exe,2021-08-08 18:34:44,NA,False,Live Registry
+1,290,"C:\ProgramData\Microsoft\VisualStudio\Packages\Microsoft.VisualCpp.Redist.14,version=14.27.29112,chip=x86\VC_redist.x86.exe",2021-08-08 18:34:43,NA,False,Live Registry
+1,291,C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\common7\ide\vsinitializer.exe,2020-10-19 16:16:10,NA,False,Live Registry
+1,292,C:\Program Files (x86)\Microsoft Visual Studio\Installer\vs_installer.windows.exe,2021-08-13 11:49:06,NA,False,Live Registry
+1,293,C:\Program Files (x86)\Microsoft Visual Studio\Installer.d816e98e91b646b898b4f3a4c3521b47\setup.exe,2021-08-08 18:33:56,NA,False,Live Registry
+1,294,C:\program files (x86)\microsoft visual studio\installer\vs_installer.exe,2021-08-08 18:33:56,NA,False,Live Registry
+1,295,C:\Program Files\Common Files\Microsoft Shared\ClickToRun\OfficeClickToRun.exe,2021-08-05 18:06:40,NA,False,Live Registry
+1,296,C:\Users\john\AppData\Local\Temp\5vuglvwm.mh1\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-08-08 14:24:42,NA,False,Live Registry
+1,297,C:\Users\john\AppData\Local\Temp\79786EB7-806A-4D89-B7EC-8CAFB1A821A7\dismhost.exe,2021-07-22 07:50:27,NA,False,Live Registry
+1,298,0000000b	03e84a6103ff0000	03e84a6103ff0000	8664	NcsiUwpApp	8wekyb3d8bbwe	neutral,,NA,False,Live Registry
+1,299,0000000b	000a00004a6103ff	000a00004a6103ff	8664	Microsoft.Windows.ShellExperienceHost	cw5n1h2txyewy	neutral,,NA,False,Live Registry
+1,300,0000000b	000a00004a6103ff	000a00004a6103ff	8664	Microsoft.Windows.StartMenuExperienceHost	cw5n1h2txyewy	neutral,,NA,False,Live Registry
+1,301,C:\Program Files (x86)\Dropbox\Client\128.4.2870\QtWebEngineProcess.exe,2021-08-05 20:39:40,NA,False,Live Registry
+1,302,C:\WINDOWS\TEMP\902B688F-37E3-475E-95CB-6EF8C10E5922\dismhost.exe,2021-07-22 07:50:27,NA,False,Live Registry
+1,303,C:\WINDOWS\SysWOW64\regsvr32.exe,2019-12-07 09:10:04,NA,False,Live Registry
+1,304,C:\Program Files (x86)\Dropbox\Client_128.4.2870\Dropbox.exe,2021-08-05 20:37:10,NA,False,Live Registry
+1,305,C:\Program Files (x86)\Dropbox\Update\Install\{789DA9ED-CE8B-48C9-B74C-B67B548553DF}\DropboxClient_128.4.2870.exe,2021-08-05 20:48:23,NA,False,Live Registry
+1,306,0000000b	0001000e00024a61	000a00004a610000	8664	Microsoft.Windows.Search	cw5n1h2txyewy	neutral,,NA,False,Live Registry
+1,307,0000000b	000a00004a6103ff	000a000000000000	8664	Microsoft.Windows.ContentDeliveryManager	cw5n1h2txyewy	neutral,,NA,False,Live Registry
+1,308,0000000b	03e84a6103ff0000	000a0000295b0000	8664	Microsoft.AAD.BrokerPlugin	cw5n1h2txyewy	neutral,,NA,False,Live Registry
+1,309,\\?\C:\WINDOWS\system32\wbem\WMIADAP.EXE,2021-07-22 07:49:57,NA,False,Live Registry
+1,310,C:\Program Files\Dell\DellDataVault\DDVCollectorSvcApi.exe,2021-07-13 09:55:42,NA,False,Live Registry
+1,311,C:\Program Files\Dell\DellDataVault\DDVDataCollector.exe,2021-07-13 09:55:18,NA,False,Live Registry
+1,312,C:\Program Files\winlogbeat\winlogbeat.exe,2020-07-21 15:25:38,NA,False,Live Registry
+1,313,C:\Program Files (x86)\Google\Chrome\Application\92.0.4515.131\Installer\setup.exe,2021-08-04 07:25:09,NA,False,Live Registry
+1,314,C:\Program Files\Dell\SupportAssistAgent\bin\SupportAssistAgent.exe,2021-07-16 22:23:10,NA,False,Live Registry
+1,315,C:\WINDOWS\system32\sppsvc.exe,2021-07-22 07:50:22,NA,False,Live Registry
+1,316,C:\Program Files (x86)\Google\Update\1.3.36.102\GoogleUpdateOnDemand.exe,2021-08-04 18:06:11,NA,False,Live Registry
+1,317,C:\WINDOWS\system32\SgrmBroker.exe,2021-07-22 07:50:41,NA,False,Live Registry
+1,318,C:\WINDOWS\system32\wermgr.exe,2021-07-22 07:50:18,NA,False,Live Registry
+1,319,C:\Program Files\Common Files\McAfee\CSP\3.1.286.0\McCSPServiceHost.exe,2019-06-13 07:56:28,NA,False,Live Registry
+1,320,C:\Program Files (x86)\Google\Update\GoogleUpdate.exe,2019-09-21 11:18:33,NA,False,Live Registry
+1,321,C:\Program Files\Dell\SupportAssistAgent\PCD\SupportAssist\pcdrsysinfostorage.p5x,2021-07-05 19:55:50,NA,False,Live Registry
+1,322,C:\Program Files\Dell\SupportAssistAgent\PCD\SupportAssist\pcdrsysinfosystemboard.p5x,2021-07-05 19:55:50,NA,False,Live Registry
+1,323,C:\Program Files\Dell\SupportAssistAgent\PCD\SupportAssist\pcdrsysinfocommunication.p5x,2021-07-05 19:55:50,NA,False,Live Registry
+1,324,C:\Program Files\Dell\SupportAssistAgent\PCD\SupportAssist\pcdrsysinfodirect.p5x,2021-07-05 19:55:50,NA,False,Live Registry
+1,325,C:\Program Files\Dell\SupportAssistAgent\PCD\SupportAssist\pcdrsysinfosoftware.p5x,2021-07-05 19:55:50,NA,False,Live Registry
+1,326,C:\Program Files\Dell\SupportAssistAgent\PCD\SupportAssist\pcdrsysinfovideocapture.p5x,2021-07-05 19:55:50,NA,False,Live Registry
+1,327,C:\Program Files\Dell\SupportAssistAgent\PCD\SupportAssist\pcdrsysinfosmbios2.p5x,2021-07-05 19:55:50,NA,False,Live Registry
+1,328,C:\Program Files\Dell\SupportAssistAgent\PCD\SupportAssist\pcdrsysinfoperipheral.p5x,2021-07-05 19:55:50,NA,False,Live Registry
+1,329,C:\Program Files\Dell\SupportAssistAgent\PCD\SupportAssist\pcdrsysinfocsmi.p5x,2021-07-05 19:55:50,NA,False,Live Registry
+1,330,C:\Program Files\Dell\SupportAssistAgent\PCD\SupportAssist\pcdrsysinfocpu_x86.p5x,2021-07-05 19:55:50,NA,False,Live Registry
+1,331,C:\Program Files (x86)\Dell\UpdateService\ServiceShell.exe,2021-05-27 18:52:28,NA,False,Live Registry
+1,332,C:\Program Files\Dell\SupportAssistAgent\PCD\SupportAssist\Dsapi.exe,2021-07-05 19:55:54,NA,False,Live Registry
+1,333,C:\Program Files\Dell\DellDataVault\DDVRulesProcessor.exe,2021-07-13 09:51:56,NA,False,Live Registry
+1,334,C:\Program Files\Waves\MaxxAudio\WavesSvc64.exe,2018-11-04 10:21:36,NA,False,Live Registry
+1,335,C:\WINDOWS\system32\runonce.exe,2021-07-22 07:50:21,NA,False,Live Registry
+1,336,C:\Program Files (x86)\CCleaner Browser\Update\1.8.1067.0\CCleanerBrowserCrashHandler64.exe,2021-03-22 21:04:35,NA,False,Live Registry
+1,337,C:\Program Files (x86)\CCleaner Browser\Update\1.8.1067.0\CCleanerBrowserCrashHandler.exe,2021-03-22 21:04:35,NA,False,Live Registry
+1,338,C:\Program Files (x86)\Dropbox\Update\1.3.485.1\DropboxCrashHandler.exe,2021-06-24 18:19:18,NA,False,Live Registry
+1,339,C:\WINDOWS\System32\DriverStore\FileRepository\igdlh64.inf_amd64_45855586d601d062\igfxEM.exe,2021-01-19 17:56:54,NA,False,Live Registry
+1,340,C:\Program Files (x86)\Dropbox\Update\DropboxUpdate.exe,2021-08-13 07:59:19,NA,False,Live Registry
+1,341,C:\Program Files (x86)\CCleaner Browser\Update\CCleanerBrowserUpdate.exe,2021-03-22 21:04:35,NA,False,Live Registry
+1,342,C:\WINDOWS\Microsoft.Net\Framework64\v3.0\WPF\PresentationFontCache.exe,2019-11-08 22:44:00,NA,False,Live Registry
+1,343,C:\Program Files\Palo Alto Networks\Traps\tlaworker.exe,2021-05-30 09:15:38,NA,False,Live Registry
+1,344,C:\WINDOWS\SYSTEM32\netsh.exe,2019-12-07 09:09:33,NA,False,Live Registry
+1,345,C:\WINDOWS\system32\WLANExt.exe,2019-12-07 09:08:13,NA,False,Live Registry
+1,346,C:\WINDOWS\winsxs\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.19041.1081_none_7e3d47227c694b34\TiWorker.exe,2021-07-22 07:41:27,NA,False,Live Registry
+1,347,C:\WINDOWS\Microsoft.NET\Framework64\v4.0.30319\Ngen.exe,2020-12-02 22:38:14,NA,False,Live Registry
+1,348,C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\Ngen.exe,2020-12-02 22:45:24,NA,False,Live Registry
+1,349,C:\WINDOWS\SysWOW64\net1.exe,2021-07-22 07:50:52,NA,False,Live Registry
+1,350,C:\WINDOWS\SysWOW64\net.exe,2019-12-07 09:09:57,NA,False,Live Registry
+1,351,C:\WINDOWS\SysWOW64\sc.exe,2019-12-07 09:09:57,NA,False,Live Registry
+1,352,C:\Program Files (x86)\ExpressVPN\expressvpnd\windows\xvutil\XvUtil.exe,2019-11-01 02:26:54,NA,False,Live Registry
+1,353,C:\WINDOWS\system32\net1.exe,2021-07-22 07:50:43,NA,False,Live Registry
+1,354,C:\WINDOWS\System32\net.exe,2019-12-07 09:09:33,NA,False,Live Registry
+1,355,C:\Program Files\Fortinet\FortiClient\FortiSettings.exe,2019-10-11 10:08:36,NA,False,Live Registry
+1,356,C:\Program Files\Fortinet\FortiClient\FortiSSLVPNdaemon.exe,2019-10-11 10:08:20,NA,False,Live Registry
+1,357,C:\Program Files\Palo Alto Networks\Traps\cyserver.exe,2021-05-30 09:15:28,NA,False,Live Registry
+1,358,C:\Program Files\Fortinet\FortiClient\fccomint.exe,2019-10-11 10:08:12,NA,False,Live Registry
+1,359,C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe,2020-09-23 06:31:48,NA,False,Live Registry
+1,360,C:\WINDOWS\System32\jhi_service.exe,2019-02-19 04:24:26,NA,False,Live Registry
+1,361,C:\Program Files (x86)\CheckPoint\Endpoint Connect\TracSrvWrapper.exe,2019-12-04 15:05:20,NA,False,Live Registry
+1,362,C:\WINDOWS\system32\WirelessKB850NotificationService.exe,2018-05-14 17:32:16,NA,False,Live Registry
+1,363,C:\Program Files\Waves\MaxxAudio\WavesSysSvc64.exe,2018-11-04 10:21:36,NA,False,Live Registry
+1,364,C:\Program Files (x86)\VMware\VMware Workstation\vmware-authd.exe,2020-06-04 21:06:38,NA,False,Live Registry
+1,365,C:\Program Files (x86)\Common Files\VMware\USB\vmware-usbarbitrator64.exe,2020-04-16 05:15:40,NA,False,Live Registry
+1,366,C:\Program Files\Fortinet\FortiClient\FCDBLog.exe,2019-10-11 10:08:12,NA,False,Live Registry
+1,367,C:\Program Files\SonicWall\Global VPN Client\SWGVCSvc.exe,2020-04-16 14:47:12,NA,False,Live Registry
+1,368,C:\WINDOWS\Intel\Intel(R) Management Engine Components\LMS\LMS.exe,2019-04-03 05:14:38,NA,False,Live Registry
+1,369,C:\Windows\System32\regsvr32.exe,2019-12-07 09:09:46,NA,False,Live Registry
+1,370,C:\WINDOWS\system32\cAVS\Intel(R) Audio Service\IntelAudioService.exe,2018-11-19 01:05:38,NA,False,Live Registry
+1,371,C:\WINDOWS\System32\DriverStore\FileRepository\iclsclient.inf_amd64_34687bf44d0a152a\lib\TPMProvisioningService.exe,2019-02-15 03:32:54,NA,False,Live Registry
+1,372,C:\Windows\system32\IProsetMonitor.exe,2019-07-31 18:05:06,NA,False,Live Registry
+1,373,C:\WINDOWS\System32\Intel\DPTF\esif_uf.exe,2018-08-30 09:06:48,NA,False,Live Registry
+1,374,C:\Program Files (x86)\Common Files\Adobe\ARM\1.0\armsvc.exe,2021-01-25 19:55:56,NA,False,Live Registry
+1,375,C:\Program Files (x86)\CheckPoint\Endpoint Connect\Watchdog\EPWD.exe,2019-12-04 07:09:00,NA,False,Live Registry
+1,376,C:\WINDOWS\system32\DbxSvc.exe,2021-08-05 20:33:10,NA,False,Live Registry
+1,377,C:\Program Files (x86)\Citrix\ICA Client\Receiver\UpdaterService.exe,2021-05-03 01:00:20,NA,False,Live Registry
+1,378,C:\Program Files\Docker\Docker\com.docker.service,2020-02-21 08:43:44,NA,False,Live Registry
+1,379,C:\WINDOWS\system32\DellTPad\HidMonitorSvc.exe,2019-12-12 14:26:00,NA,False,Live Registry
+1,380,C:\Program Files\Fortinet\FortiClient\FortiScand.exe,2019-10-11 10:08:20,NA,False,Live Registry
+1,381,C:\WINDOWS\System32\HostStorageService.exe,2018-05-24 14:26:24,NA,False,Live Registry
+1,382,C:\WINDOWS\System32\HostControlService.exe,2018-05-24 14:26:24,NA,False,Live Registry
+1,383,C:\WINDOWS\System32\spoolsv.exe,2021-07-22 07:49:56,NA,False,Live Registry
+1,384,C:\Program Files\Fortinet\FortiClient\scheduler.exe,2019-10-11 10:08:26,NA,False,Live Registry
+1,385,C:\WINDOWS\system32\wbem\unsecapp.exe,2021-07-22 07:49:57,NA,False,Live Registry
+1,386,C:\Program Files\Realtek\Audio\HDA\RtkAudioService64.exe,2019-04-11 18:04:00,NA,False,Live Registry
+1,387,C:\WINDOWS\TEMP\2AF76B9A-4F93-435A-8657-54532E100DB7\dismhost.exe,2021-07-22 07:50:27,NA,False,Live Registry
+1,388,c:\windows\system32\NetCfgNotifyObjectHost.exe,2019-12-07 09:09:05,NA,False,Live Registry
+1,389,C:\WINDOWS\System32\DriverStore\FileRepository\igdlh64.inf_amd64_45855586d601d062\igfxCUIService.exe,2021-01-19 17:56:40,NA,False,Live Registry
+1,390,C:\Program Files\NVIDIA Corporation\Display.NvContainer\NVDisplay.Container.exe,2020-11-20 12:11:56,NA,False,Live Registry
+1,391,C:\WINDOWS\system32\dashost.exe,2019-12-07 09:08:37,NA,False,Live Registry
+1,392,C:\WINDOWS\System32\UshUpgradeService.exe,2018-05-24 14:26:30,NA,False,Live Registry
+1,393,C:\WINDOWS\system32\dwm.exe,2021-07-22 07:50:16,NA,False,Live Registry
+1,394,C:\Windows\System32\WUDFHost.exe,2019-12-07 09:08:58,NA,False,Live Registry
+1,395,C:\WINDOWS\system32\fontdrvhost.exe,2021-07-22 07:50:19,NA,False,Live Registry
+1,396,C:\WINDOWS\system32\lsass.exe,2021-07-22 07:50:18,NA,False,Live Registry
+1,397,C:\WINDOWS\system32\services.exe,2021-07-22 07:50:18,NA,False,Live Registry
+1,398,C:\Program Files\Realtek\Audio\HDA\RAVBg64.exe,2019-04-11 18:03:58,NA,False,Live Registry
+1,399,C:\WINDOWS\SysWOW64\taskkill.exe,2019-12-07 09:10:05,NA,False,Live Registry
+1,400,C:\WINDOWS\System32\taskkill.exe,2019-12-07 09:10:05,NA,False,Live Registry
+1,401,C:\Program Files\WindowsApps\Microsoft.MicrosoftSolitaireCollection_4.10.7290.0_x64__8wekyb3d8bbwe\Application,2021-08-07 18:17:35,NA,False,Live Registry
+1,402,00000009	0004000a1c7a0000	000a00004a610000	8664	Microsoft.MicrosoftSolitaireCollection	8wekyb3d8bbwe	,,NA,False,Live Registry
+1,403,C:\Users\john\AppData\Local\Temp\o5w1iqh0.fw4\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-08-07 18:10:58,NA,False,Live Registry
+1,404,C:\Users\john\AppData\Local\Temp\8E54BCBA-D639-40CB-81D6-C8E605AB0A7C\dismhost.exe,2021-07-22 07:50:27,NA,False,Live Registry
+1,405,C:\WINDOWS\system32\AUDIODG.EXE,2021-07-22 07:49:55,NA,False,Live Registry
+1,406,c:\Windows\syswow64\MsiExec.exe,2019-12-07 09:10:02,NA,False,Live Registry
+1,407,C:\WINDOWS\system32\msiexec.exe,2019-12-07 09:09:44,NA,False,Live Registry
+1,408,C:\Program Files\Common Files\Microsoft Shared\ClickToRun\Updates\16.0.14228.20226\OfficeClickToRun.exe,2021-07-30 11:07:12,NA,False,Live Registry
+1,409,C:\WINDOWS\system32\schtasks.exe,2021-07-22 07:50:22,NA,False,Live Registry
+1,410,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\92.0.902.67\Installer\setup.exe,2021-08-07 14:29:46,NA,False,Live Registry
+1,411,C:\Program Files (x86)\Microsoft\EdgeUpdate\Install\{46FBAD6A-7512-4757-B3E3-301358FE984C}\EDGEMITMP_50225.tmp\setup.exe,2021-08-07 14:30:09,NA,False,Live Registry
+1,412,C:\Program Files (x86)\Microsoft\EdgeUpdate\Install\{46FBAD6A-7512-4757-B3E3-301358FE984C}\MicrosoftEdge_X64_92.0.902.67_92.0.902.62.exe,2021-08-07 14:30:08,NA,False,Live Registry
+1,413,C:\Program Files (x86)\Microsoft\Edge\Application\92.0.902.67\Installer\setup.exe,2021-08-07 14:29:46,NA,False,Live Registry
+1,414,C:\Program Files (x86)\Microsoft\EdgeUpdate\Install\{415E6E89-F0EF-4ADB-A474-8C9830026950}\EDGEMITMP_4F293.tmp\setup.exe,2021-08-07 14:29:46,NA,False,Live Registry
+1,415,C:\Program Files (x86)\Microsoft\EdgeUpdate\Install\{415E6E89-F0EF-4ADB-A474-8C9830026950}\MicrosoftEdge_X64_92.0.902.67_92.0.902.62.exe,2021-08-07 14:29:45,NA,False,Live Registry
+1,416,C:\WINDOWS\SysWOW64\cmd.exe,2021-07-22 07:50:35,NA,False,Live Registry
+1,417,C:\WINDOWS\SysWOW64\config\systemprofile\Citrix\UpdaterBinaries\32d5ea27-01e8-49c5-b96f-0313b503c1c8\CitrixReceiverUpdater.exe,2021-05-03 01:00:04,NA,False,Live Registry
+1,418,C:\Users\john\AppData\Local\Temp\0eibxlop.fqe\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-08-06 07:41:17,NA,False,Live Registry
+1,419,C:\Users\john\AppData\Local\Temp\82565DA2-791B-405B-8743-50BD7CDE0E49\dismhost.exe,2021-07-22 07:50:27,NA,False,Live Registry
+1,420,C:\WINDOWS\servicing\TrustedInstaller.exe,2021-07-22 07:50:27,NA,False,Live Registry
+1,421,C:\WINDOWS\system32\devicecensus.exe,2021-07-22 07:50:17,NA,False,Live Registry
+1,422,C:\WINDOWS\system32\rundll32.exe,2021-07-22 07:50:25,NA,False,Live Registry
+1,423,C:\WINDOWS\System32\Upfc.exe,2019-12-07 09:08:33,NA,False,Live Registry
+1,424,C:\WINDOWS\System32\sc.exe,2019-12-07 09:09:34,NA,False,Live Registry
+1,425,C:\Program Files\WindowsApps\Microsoft.Office.OneNote_16001.14228.20150.0_x64__8wekyb3d8bbwe\Application,2021-07-30 11:12:59,NA,False,Live Registry
+1,426,C:\Ruby30-x64\bin\rubyw.exe,2021-07-09 16:39:50,NA,False,Live Registry
+1,427,C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe,2020-06-06 00:06:03,NA,False,Live Registry
+1,428,C:\Users\john\Downloads\curl-7.78.0-win64-mingw\curl-7.78.0-win64-mingw\bin\curl.exe,2021-07-21 03:46:56,NA,False,Live Registry
+1,429,C:\WINDOWS\system32\wbem\wmiprvse.exe,2021-07-22 07:50:12,NA,False,Live Registry
+1,430,C:\Ruby30-x64\msys64\usr\bin\install.exe,2021-07-09 16:42:44,NA,False,Live Registry
+1,431,C:\Ruby30-x64\msys64\mingw64\bin\..\lib\gcc\x86_64-w64-mingw32\10.3.0\..\..\..\..\x86_64-w64-mingw32\bin\ld.exe,2021-07-09 16:42:42,NA,False,Live Registry
+1,432,C:\Ruby30-x64\msys64\mingw64\bin\..\lib\gcc\x86_64-w64-mingw32\10.3.0\collect2.exe,2021-07-09 16:42:40,NA,False,Live Registry
+1,433,C:\Ruby30-x64\msys64\mingw64\bin\..\lib\gcc\x86_64-w64-mingw32\10.3.0\..\..\..\..\x86_64-w64-mingw32\bin\as.exe,2021-07-09 16:42:42,NA,False,Live Registry
+1,434,C:\Ruby30-x64\msys64\mingw64\bin\..\lib\gcc\x86_64-w64-mingw32\10.3.0\cc1.exe,2021-07-09 16:42:40,NA,False,Live Registry
+1,435,C:\Ruby30-x64\msys64\mingw64\bin\gcc.exe,2021-07-09 16:42:40,NA,False,Live Registry
+1,436,C:\Ruby30-x64\msys64\usr\bin\echo.exe,2021-07-09 16:42:44,NA,False,Live Registry
+1,437,C:\Ruby30-x64\msys64\usr\bin\rm.exe,2021-07-09 16:42:46,NA,False,Live Registry
+1,438,C:\Ruby30-x64\msys64\usr\bin\make.exe,2021-07-09 16:42:44,NA,False,Live Registry
+1,439,C:\WINDOWS\system32\cmd.exe,2021-07-22 07:50:10,NA,False,Live Registry
+1,440,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,2021-07-22 07:51:12,NA,False,Live Registry
+1,441,C:\WINDOWS\system32\DllHost.exe,2021-07-22 07:50:17,NA,False,Live Registry
+1,442,C:\Ruby30-x64\msys64\usr\bin\gpgsm.exe,2021-07-09 16:42:44,NA,False,Live Registry
+1,443,C:\Ruby30-x64\msys64\usr\bin\pacman.exe,2021-07-09 16:42:46,NA,False,Live Registry
+1,444,C:\Ruby30-x64\msys64\usr\bin\clear.exe,2021-07-09 16:42:44,NA,False,Live Registry
+1,445,C:\Ruby30-x64\msys64\usr\bin\trust.exe,2021-07-09 16:42:46,NA,False,Live Registry
+1,446,C:\Ruby30-x64\msys64\usr\bin\p11-kit.exe,2021-07-09 16:42:46,NA,False,Live Registry
+1,447,C:\Ruby30-x64\msys64\usr\bin\tzset.exe,2021-07-09 16:42:46,NA,False,Live Registry
+1,448,C:\Ruby30-x64\msys64\usr\bin\which.exe,2021-07-09 16:42:46,NA,False,Live Registry
+1,449,C:\Ruby30-x64\msys64\usr\bin\hostname.exe,2021-07-09 16:42:44,NA,False,Live Registry
+1,450,C:\Ruby30-x64\msys64\usr\bin\gpg-connect-agent.exe,2021-07-09 16:42:44,NA,False,Live Registry
+1,451,C:\Ruby30-x64\msys64\usr\bin\gpgconf.exe,2021-07-09 16:42:44,NA,False,Live Registry
+1,452,C:\Ruby30-x64\msys64\usr\bin\dirmngr.exe,2021-07-09 16:42:44,NA,False,Live Registry
+1,453,C:\Ruby30-x64\msys64\usr\bin\gettext.exe,2021-07-09 16:42:44,NA,False,Live Registry
+1,454,C:\Ruby30-x64\msys64\usr\bin\gpg-agent.exe,2021-07-09 16:42:44,NA,False,Live Registry
+1,455,\\?\C:\Ruby30-x64\msys64\usr\bin\cygwin-console-helper.exe,2021-07-09 16:42:44,NA,False,Live Registry
+1,456,C:\Ruby30-x64\msys64\usr\bin\wc.exe,2021-07-09 16:42:46,NA,False,Live Registry
+1,457,C:\Ruby30-x64\msys64\usr\bin\vercmp.exe,2021-07-09 16:42:46,NA,False,Live Registry
+1,458,C:\Ruby30-x64\msys64\usr\bin\awk.exe,2021-07-09 16:42:44,NA,False,Live Registry
+1,459,C:\Ruby30-x64\msys64\usr\bin\grep.exe,2021-07-09 16:42:44,NA,False,Live Registry
+1,460,C:\Ruby30-x64\msys64\usr\bin\gpg.exe,2021-07-09 16:42:44,NA,False,Live Registry
+1,461,C:\Ruby30-x64\msys64\usr\bin\touch.exe,2021-07-09 16:42:46,NA,False,Live Registry
+1,462,C:\Ruby30-x64\msys64\usr\bin\tput.exe,2021-07-09 16:42:46,NA,False,Live Registry
+1,463,C:\Ruby30-x64\msys64\usr\bin\bash.exe,2021-07-09 16:42:44,NA,False,Live Registry
+1,464,C:\Ruby30-x64\msys64\usr\bin\env.exe,2021-07-09 16:42:44,NA,False,Live Registry
+1,465,C:\Ruby30-x64\msys64\usr\bin\pacman-conf.exe,2021-07-09 16:42:46,NA,False,Live Registry
+1,466,C:\Ruby30-x64\msys64\usr\bin\chmod.exe,2021-07-09 16:42:44,NA,False,Live Registry
+1,467,C:\Ruby30-x64\msys64\usr\bin\cp.exe,2021-07-09 16:42:44,NA,False,Live Registry
+1,468,C:\Ruby30-x64\msys64\usr\bin\expr.exe,2021-07-09 16:42:44,NA,False,Live Registry
+1,469,C:\Ruby30-x64\msys64\usr\bin\id.exe,2021-07-09 16:42:44,NA,False,Live Registry
+1,470,C:\Ruby30-x64\msys64\usr\bin\ln.exe,2021-07-09 16:42:44,NA,False,Live Registry
+1,471,C:\Ruby30-x64\msys64\usr\bin\test.exe,2021-07-09 16:42:46,NA,False,Live Registry
+1,472,C:\Ruby30-x64\msys64\usr\bin\mkdir.exe,2021-07-09 16:42:44,NA,False,Live Registry
+1,473,C:\Ruby30-x64\msys64\usr\bin\cygpath.exe,2021-07-09 16:42:44,NA,False,Live Registry
+1,474,C:\Ruby30-x64\msys64\usr\bin\sh.exe,2021-07-09 16:42:46,NA,False,Live Registry
+1,475,C:\Ruby30-x64\msys64\usr\bin\locale.exe,2021-07-09 16:42:44,NA,False,Live Registry
+1,476,C:\Ruby30-x64\bin\ruby.exe,2021-07-09 16:39:50,NA,False,Live Registry
+1,477,C:\Ruby30-x64\bin\irb.cmd,2021-07-09 16:39:50,NA,False,Live Registry
+1,478,C:\Ruby30-x64\unins000.exe,2021-08-05 21:47:30,NA,False,Live Registry
+1,479,C:\Users\john\AppData\Local\Temp\is-GJU31.tmp\rubyinstaller-devkit-3.0.2-1-x64.tmp,2021-08-05 21:47:30,NA,False,Live Registry
+1,480,C:\Users\john\Downloads\rubyinstaller-devkit-3.0.2-1-x64.exe,2021-08-05 21:47:21,NA,False,Live Registry
+1,481,C:\Users\john\AppData\Local\Temp\ofstyivz.mrf\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-08-05 21:31:34,NA,False,Live Registry
+1,482,C:\WINDOWS\sysWOW64\wbem\wmiprvse.exe,2021-07-22 07:50:30,NA,False,Live Registry
+1,483,C:\Program Files\Dell\SARemediation\audit\TelemetryUtility.exe,2021-03-31 21:25:54,NA,False,Live Registry
+1,484,C:\Program Files (x86)\CCleaner Browser\Application\92.0.11165.110\elevation_service.exe,2021-07-27 15:53:25,NA,False,Live Registry
+1,485,C:\WINDOWS\system32\svchost.exe,2021-07-22 07:50:16,NA,False,Live Registry
+1,486,C:\Program Files (x86)\CCleaner Browser\Update\Install\{36C9E24C-04FD-42F0-9AF1-375FE6675D65}\CR_32299.tmp\setup.exe,2021-08-05 17:01:05,NA,False,Live Registry
+1,487,C:\Program Files (x86)\CCleaner Browser\Application\91.1.10935.167\Installer\setup.exe,2021-07-21 21:20:59,NA,False,Live Registry
+1,488,C:\Program Files (x86)\CCleaner Browser\Update\Install\{36C9E24C-04FD-42F0-9AF1-375FE6675D65}\CCleanerBrowserInstallerIncremental-91.1.10935.167.exe,2021-08-05 17:01:02,NA,False,Live Registry
+1,489,C:\WINDOWS\TEMP\invB648_tmp\Novatek\Rom_Check_Aux_Tool.exe,2021-05-24 07:32:41,NA,False,Live Registry
+1,490,C:\WINDOWS\TEMP\invB648_tmp\Dell_OSRI\Dell_OSRI_CIC.exe,2021-05-24 07:32:40,NA,False,Live Registry
+1,491,C:\WINDOWS\TEMP\invB648_tmp\Dell_DBUtilPackageInstaller\Dell_DBUtilPackageInstaller.exe,2021-06-25 04:10:02,NA,False,Live Registry
+1,492,C:\WINDOWS\TEMP\invB648_tmp\Dell_ThermalCIC\Dell_ThermalPpkgInstaller.exe,2021-07-08 02:27:05,NA,False,Live Registry
+1,493,C:\WINDOWS\TEMP\invB648_tmp\ExtensionINFINV\EXTDRVRInv.exe,2021-05-24 07:32:40,NA,False,Live Registry
+1,494,C:\WINDOWS\TEMP\invB648_tmp\AppxInventory\APPXInventory.exe,2021-05-24 07:32:40,NA,False,Live Registry
+1,495,C:\WINDOWS\TEMP\invB648_tmp\SoftCompInv\SOFTWARECOMPONENTInv.exe,2021-05-24 07:32:41,NA,False,Live Registry
+1,496,C:\WINDOWS\TEMP\invB648_tmp\TBT_Dock_Firmware\GetDockVer32W.exe,2021-07-08 02:30:19,NA,False,Live Registry
+1,497,C:\WINDOWS\TEMP\invB648_tmp\SalomonDock\SalomonDock.exe,2021-05-24 07:32:41,NA,False,Live Registry
+1,498,C:\WINDOWS\TEMP\invB648_tmp\Thunderbolt_Reg\Executables\DRVUpdate.exe,2021-07-08 02:28:41,NA,False,Live Registry
+1,499,C:\WINDOWS\TEMP\invB648_tmp\Thunderbolt_Reg\TB_Controller_new\..\ThunderboltRegModule.exe,2021-07-08 02:28:52,NA,False,Live Registry
+1,500,C:\WINDOWS\TEMP\invB648_tmp\Thunderbolt_Reg\ASMedia_USB_Controller\..\ThunderboltRegModule.exe,2021-07-08 02:28:52,NA,False,Live Registry
+1,501,C:\WINDOWS\TEMP\invB648_tmp\Thunderbolt_Reg\RLtek_USB_Driver_WOW\..\ThunderboltRegModule.exe,2021-07-08 02:28:52,NA,False,Live Registry
+1,502,C:\WINDOWS\TEMP\invB648_tmp\Thunderbolt_Reg\RLtek_Ethernate\..\ThunderboltRegModule.exe,2021-07-08 02:28:52,NA,False,Live Registry
+1,503,C:\WINDOWS\TEMP\invB648_tmp\Thunderbolt_Reg\RLtek_USB_Driver\..\ThunderboltRegModule.exe,2021-07-08 02:28:52,NA,False,Live Registry
+1,504,C:\WINDOWS\TEMP\invB648_tmp\Thunderbolt_Reg\TB_Firmware\..\ThunderboltRegModule.exe,2021-07-08 02:28:52,NA,False,Live Registry
+1,505,C:\WINDOWS\TEMP\invB648_tmp\Executables\Appupdate.exe,2021-07-08 02:28:43,NA,False,Live Registry
+1,506,C:\WINDOWS\TEMP\invB648_tmp\Thunderbolt_Reg\ThunderboltZeroInv.exe,2021-07-08 02:28:58,NA,False,Live Registry
+1,507,C:\WINDOWS\TEMP\invB648_tmp\Executables\PNPUpdate.exe,2021-07-08 02:28:45,NA,False,Live Registry
+1,508,C:\WINDOWS\TEMP\invB648_tmp\SCSI_ODD\SCSIupdate.exe,2021-05-24 07:32:41,NA,False,Live Registry
+1,509,C:\WINDOWS\TEMP\invB648_tmp\Executables\SSDUpdate.exe,2021-07-08 02:28:46,NA,False,Live Registry
+1,510,C:\WINDOWS\TEMP\invB648_tmp\Executables\UsbUpdate.exe,2021-07-08 02:28:44,NA,False,Live Registry
+1,511,C:\WINDOWS\TEMP\invB648_tmp\RegMSI\Reg-MSI_Inventory.exe,2021-05-24 07:32:41,NA,False,Live Registry
+1,512,C:\WINDOWS\TEMP\invB648_tmp\OSINV\osinv.exe,2021-07-08 02:30:14,NA,False,Live Registry
+1,513,C:\WINDOWS\TEMP\invB648_tmp\libsmbios\smbiosinfo.exe,2021-07-08 02:30:15,NA,False,Live Registry
+1,514,C:\WINDOWS\TEMP\invB648_tmp\Executables\DRVUpdate.exe,2021-07-08 02:28:41,NA,False,Live Registry
+1,515,C:\WINDOWS\TEMP\invB648_tmp\invcol.exe,2021-07-08 02:30:10,NA,False,Live Registry
+1,516,00000009	07e5524e55f70000	000a00004a640000	8664	Microsoft.Windows.Photos	8wekyb3d8bbwe	,,NA,False,Live Registry
+1,517,C:\Program Files\WindowsApps\Microsoft.Windows.Photos_2021.21070.22007.0_x64__8wekyb3d8bbwe\Application,2021-08-05 12:49:01,NA,False,Live Registry
+1,518,00000009	07e5524e55f70000	000a00004bc80000	8664	Microsoft.Windows.Photos	8wekyb3d8bbwe	,,NA,False,Live Registry
+1,519,C:\Users\john\AppData\Local\Temp\04mtdoiu.szz\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-08-05 12:48:24,NA,False,Live Registry
+1,520,C:\Users\john\AppData\Local\Temp\68A793EA-3FD6-4B32-9C29-88F49F8ADBFD\dismhost.exe,2021-07-22 07:50:27,NA,False,Live Registry
+1,521,C:\WINDOWS\system32\forfiles.exe,2019-12-07 09:09:37,NA,False,Live Registry
+1,522,C:\WINDOWS\system32\ARP.EXE,2019-12-07 09:09:34,NA,False,Live Registry
+1,523,C:\Users\john\AppData\Local\Microsoft\OneDrive\21.139.0711.0001\FileCoAuth.exe,2021-08-05 10:57:59,NA,False,Live Registry
+1,524,C:\Users\john\AppData\Local\Microsoft\OneDrive\21.139.0711.0001\FileSyncConfig.exe,2021-08-05 10:58:00,NA,False,Live Registry
+1,525,C:\WINDOWS\system32\NETSTAT.EXE,2019-12-07 09:09:34,NA,False,Live Registry
+1,526,C:\WINDOWS\system32\curl.exe,2019-12-07 09:09:34,NA,False,Live Registry
+1,527,C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\PrivateAssemblies\ScriptedSandbox64.exe,2020-10-19 16:18:01,NA,False,Live Registry
+1,528,C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Remote Debugger\x64\msvsmon.exe,2020-10-19 16:18:04,NA,False,Live Registry
+1,529,C:\Program Files (x86)\Microsoft Visual Studio\Shared\Common\DiagnosticsHub.Collection.Service\StandardCollector.Service.exe,2019-04-30 20:36:44,NA,False,Live Registry
+1,530,C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x64\ServiceHub.DataWarehouseHost.exe,2020-10-19 16:16:12,NA,False,Live Registry
+1,531,C:\Program Files (x86)\Google\Update\1.3.36.102\GoogleCrashHandler64.exe,2021-08-04 18:06:11,NA,False,Live Registry
+1,532,C:\Program Files (x86)\Google\Update\1.3.36.102\GoogleCrashHandler.exe,2021-08-04 18:06:11,NA,False,Live Registry
+1,533,C:\Program Files (x86)\Google\Update\1.3.36.102\GoogleUpdateComRegisterShell64.exe,2021-08-04 18:06:11,NA,False,Live Registry
+1,534,C:\Program Files (x86)\Google\Temp\GUMB1A3.tmp\GoogleUpdate.exe,2021-08-04 18:06:11,NA,False,Live Registry
+1,535,C:\Program Files (x86)\Google\Update\Install\{6AE8787D-8E99-44AF-A2AC-39914B32FB8A}\GoogleUpdateSetup.exe,2021-08-04 18:06:10,NA,False,Live Registry
+1,536,C:\Users\john\AppData\Local\Temp\toish4zk.x1u\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-08-04 17:21:39,NA,False,Live Registry
+1,537,C:\Program Files\WindowsApps\DolbyLaboratories.DolbyAccess_3.9.253.0_x64__rz1tebttyb220\Application,2021-08-04 16:44:13,NA,False,Live Registry
+1,538,00000009	0003000900fd0000	000a000047ba0000	8664	DolbyLaboratories.DolbyAccess	rz1tebttyb220	,,NA,False,Live Registry
+1,539,C:\Users\john\AppData\Local\Temp\gxez5exh.b34\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-08-04 16:44:05,NA,False,Live Registry
+1,540,C:\Users\john\AppData\Local\Temp\9ADD4ECF-09BB-4978-BA8D-6AD4B620E31A\dismhost.exe,2021-07-22 07:50:27,NA,False,Live Registry
+1,541,00000000	0001081600020000	000a00004a610000	8664	king.com.CandyCrushSaga	kgqvnymyfvs32	,,NA,False,Live Registry
+1,542,C:\ProgramData\PCDr\7303\Drivers\DBUtil.Vulnerability.Cleanup.V3\Extract\DBUtilRemovalTool.exe,2021-07-22 14:05:12,NA,False,Live Registry
+1,543,C:\WINDOWS\SysWOW64\config\systemprofile\Citrix\UpdaterBinaries\e38667d9-df6c-4ccf-bfe0-3100197a57b2\CitrixReceiverUpdater.exe,2021-05-03 01:00:04,NA,False,Live Registry
+1,544,C:\Users\john\AppData\Local\Temp\pbcnqbhm.wqo\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-08-04 07:35:22,NA,False,Live Registry
+1,545,C:\Program Files (x86)\Google\Update\Install\{F0F23783-868F-4E56-920F-252AF0CFEBE0}\CR_FCFFD.tmp\setup.exe,2021-08-04 07:25:09,NA,False,Live Registry
+1,546,C:\Program Files (x86)\Google\Update\Install\{F0F23783-868F-4E56-920F-252AF0CFEBE0}\92.0.4515.131_92.0.4515.107_chrome_updater.exe,2021-08-04 07:25:08,NA,False,Live Registry
+1,547,C:\Users\john\AppData\Local\Temp\tvjbq1nl.adb\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-08-03 09:00:13,NA,False,Live Registry
+1,548,C:\Users\john\AppData\Local\Temp\619D296B-D5A2-45C6-B45E-A434D30F543B\dismhost.exe,2021-07-22 07:50:27,NA,False,Live Registry
+1,549,C:\Users\john\AppData\Local\Temp\jtkz5hph.zle\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-08-02 13:30:41,NA,False,Live Registry
+1,550,C:\Users\john\Downloads\pestudio\pestudio\pestudio.exe,2021-07-16 12:21:32,NA,False,Live Registry
+1,551,C:\Users\john\Downloads\die_win64_portable_3.03\die_win64_portable\die.exe,2021-07-11 21:32:57,NA,False,Live Registry
+1,552,C:\Users\john\Downloads\die_win64_portable_3.03\die_win64_portable\diec.exe,2021-07-11 21:14:38,NA,False,Live Registry
+1,553,C:\Users\john\AppData\Local\Temp\qoatu3an.32g\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-08-02 10:27:14,NA,False,Live Registry
+1,554,C:\Users\john\source\repos\FirstProject\Debug\FirstProject.exe,2021-08-02 09:56:53,NA,False,Live Registry
+1,555,C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Platform\Debugger\VsDebugConsole.exe,2020-10-19 16:18:01,NA,False,Live Registry
+1,556,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\92.0.902.62\msedgewebview2.exe,2021-07-29 06:54:49,NA,False,Live Registry
+1,557,C:\Users\john\AppData\Roaming\Zoom\bin\Installer.exe,2021-08-02 06:20:32,NA,False,Live Registry
+1,558,C:\Users\john\AppData\Roaming\Zoom\uninstall\Installer.exe,2021-08-02 06:20:32,NA,False,Live Registry
+1,559,C:\Users\john\AppData\Roaming\Zoom\5.7.4.804\Installer.exe,2021-08-02 06:20:32,NA,False,Live Registry
+1,560,C:\Users\john\AppData\Local\Temp\DEA1ACB4-207A-4F1F-8689-29D8E404F62B\dismhost.exe,2021-07-22 07:50:27,NA,False,Live Registry
+1,561,00000009	0001524600960000	000a00004a640000	8664	Microsoft.YourPhone	8wekyb3d8bbwe	,,NA,False,Live Registry
+1,562,C:\Program Files\WindowsApps\Microsoft.YourPhone_1.21062.150.0_x64__8wekyb3d8bbwe\Application,2021-08-02 05:55:50,NA,False,Live Registry
+1,563,00000009	0001524600960000	000a000053350000	8664	Microsoft.YourPhone	8wekyb3d8bbwe	,,NA,False,Live Registry
+1,564,C:\Program Files (x86)\Microsoft\EdgeUpdate\1.3.147.37\MicrosoftEdgeUpdateComRegisterShell64.exe,2021-08-02 05:50:54,NA,False,Live Registry
+1,565,C:\Program Files (x86)\Microsoft\Temp\EUD309.tmp\MicrosoftEdgeUpdate.exe,2021-08-02 05:50:54,NA,False,Live Registry
+1,566,C:\Program Files (x86)\Microsoft\EdgeUpdate\Install\{42397DD4-EA9B-43BF-90CD-2E0D84CC60F4}\MicrosoftEdgeUpdateSetup_X86_1.3.147.37.exe,2021-07-23 02:00:11,NA,False,Live Registry
+1,567,C:\Users\john\AppData\Local\Temp\ve0pz54t.n53\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-08-01 20:15:48,NA,False,Live Registry
+1,568,C:\Program Files (x86)\Google\Chrome\Application\92.0.4515.107\Installer\setup.exe,2021-07-27 07:19:07,NA,False,Live Registry
+1,569,C:\WINDOWS\SysWOW64\config\systemprofile\Citrix\UpdaterBinaries\e6f0686e-43bd-4121-aa47-80a65dfe20d8\CitrixReceiverUpdater.exe,2021-05-03 01:00:04,NA,False,Live Registry
+1,570,C:\Users\john\AppData\Local\exodus\app-21.6.5\Exodus.exe,2021-06-05 15:47:58,NA,False,Live Registry
+1,571,C:\Users\john\AppData\Local\exodus\app-21.7.30\Exodus.exe,2021-08-01 14:07:29,NA,False,Live Registry
+1,572,C:\Users\john\AppData\Local\exodus\app-21.7.30\Squirrel.exe,2021-08-01 14:07:31,NA,False,Live Registry
+1,573,C:\Users\john\AppData\Local\exodus\Update.exe,2021-06-25 08:25:36,NA,False,Live Registry
+1,574,00000009	0002000000010000	000a000047ba0000	8664	40885WilliamKent2015.MSIViewer	vv14yhe95nw30	,,NA,False,Live Registry
+1,575,C:\Users\john\Desktop\Everything\Forensics_tools\Camel\powershell.exe,2021-07-01 07:48:42,NA,False,Live Registry
+1,576,C:\Users\john\Desktop\Everything\Forensics_tools\Camel\unzip.exe,2021-07-01 07:50:16,NA,False,Live Registry
+1,577,C:\Users\john\AppData\Local\Temp\CB707B7F-35E0-4CC0-893A-0EC57B6C54CB\dismhost.exe,2021-07-22 07:50:27,NA,False,Live Registry
+1,578,C:\Users\john\AppData\Local\Temp\uvdn1zfn.hip\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-08-01 07:37:57,NA,False,Live Registry
+1,579,C:\Program Files (x86)\Microsoft\Edge\Application\92.0.902.62\Installer\setup.exe,2021-07-31 10:14:37,NA,False,Live Registry
+1,580,C:\Program Files (x86)\Microsoft\EdgeUpdate\Install\{85F20F5A-2AF6-495B-96C2-08427AB2EB49}\EDGEMITMP_DCA70.tmp\setup.exe,2021-07-31 21:27:34,NA,False,Live Registry
+1,581,C:\Program Files (x86)\Microsoft\EdgeUpdate\Install\{85F20F5A-2AF6-495B-96C2-08427AB2EB49}\MicrosoftEdge_X64_92.0.902.62_92.0.902.55.exe,2021-07-31 10:14:36,NA,False,Live Registry
+1,582,C:\Users\john\AppData\Local\Temp\rncygqio.q00\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-31 11:53:22,NA,False,Live Registry
+1,583,C:\Users\john\AppData\Local\Temp\wpg4g44c.4ha\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-31 10:48:14,NA,False,Live Registry
+1,584,C:\Users\john\AppData\Local\Temp\bp3mm3uc.3js\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-31 10:45:27,NA,False,Live Registry
+1,585,C:\Users\john\AppData\Local\Temp\jl5ehwlj.j4l\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-31 10:42:11,NA,False,Live Registry
+1,586,C:\Users\john\AppData\Local\Temp\umpgguq4.2xz\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-31 10:39:52,NA,False,Live Registry
+1,587,C:\Users\john\AppData\Local\Temp\tewiu50t.4tl\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-31 10:38:09,NA,False,Live Registry
+1,588,C:\Users\john\AppData\Local\Temp\0kx2tgfl.yue\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-31 10:36:07,NA,False,Live Registry
+1,589,C:\Users\john\AppData\Local\Temp\23g4xus0.xxz\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-31 10:33:52,NA,False,Live Registry
+1,590,C:\Users\john\AppData\Local\Temp\rbathl0l.hsz\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-31 10:31:36,NA,False,Live Registry
+1,591,C:\Users\john\AppData\Local\Temp\5wldsfif.njn\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-31 10:28:11,NA,False,Live Registry
+1,592,C:\Users\john\AppData\Local\Temp\9DF73CB8-557C-435B-95C7-3E4EB1E213FF\dismhost.exe,2021-07-22 07:50:27,NA,False,Live Registry
+1,593,C:\Users\john\AppData\Local\Temp\2lr0bdwe.b4i\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-31 10:25:44,NA,False,Live Registry
+1,594,C:\Program Files (x86)\Microsoft\EdgeUpdate\Install\{EBE97BA7-EC95-4979-9B57-70DFF13159AC}\EDGEMITMP_E83DF.tmp\setup.exe,2021-07-31 10:14:37,NA,False,Live Registry
+1,595,C:\Program Files (x86)\Microsoft\EdgeUpdate\Install\{EBE97BA7-EC95-4979-9B57-70DFF13159AC}\MicrosoftEdge_X64_92.0.902.62_92.0.902.55.exe,2021-07-31 10:14:36,NA,False,Live Registry
+1,596,C:\Program Files\Common Files\Microsoft Shared\ClickToRun\Updates\16.0.14228.20204\OfficeClickToRun.exe,2021-07-21 19:35:36,NA,False,Live Registry
+1,597,C:\WINDOWS\SysWOW64\config\systemprofile\Citrix\UpdaterBinaries\f6bfe485-7e47-4e28-ae8b-0136bbf0987b\CitrixReceiverUpdater.exe,2021-05-03 01:00:04,NA,False,Live Registry
+1,598,C:\Program Files\WindowsApps\DellInc.DellSupportAssistforPCs_3.10.4.0_x64__htrsf667h5kn2\Application,2021-07-30 12:18:00,NA,False,Live Registry
+1,599,C:\Users\john\AppData\Local\Temp\531mqn0n.22f\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-30 12:22:17,NA,False,Live Registry
+1,600,00000009	0003000a00040000	000a000047ba0000	8664	DellInc.DellSupportAssistforPCs	htrsf667h5kn2	,,NA,False,Live Registry
+1,601,C:\Program Files\Dell\SARemediation\plugin\SOSInstallerTool.exe,2021-03-31 21:25:54,NA,False,Live Registry
+1,602,C:\Program Files\Dell\SupportAssistAgent\bin\SupportAssistOsRecovery.exe,2021-07-16 22:24:10,NA,False,Live Registry
+1,603,C:\WINDOWS\Temp\{43A6CA00-1843-4255-B5C0-6E05F2DDDBDD}\.be\DellUpdateSupportAssistPlugin.exe,2021-07-30 12:17:49,NA,False,Live Registry
+1,604,C:\WINDOWS\Temp\{6CA739BD-DFAB-42D8-9121-9E16A93C3C9B}\.cr\DellUpdateSupportAssistPlugin.exe,2021-07-30 12:17:48,NA,False,Live Registry
+1,605,C:\Program Files\Dell\SupportAssistAgent\OSRecoveryPlugin\DellUpdateSupportAssistPlugin.exe,2021-07-15 21:35:20,NA,False,Live Registry
+1,606,C:\Program Files\Dell\SupportAssistAgent\PCD\SupportAssist\setup\ConfigInstaller.exe,2021-07-05 19:55:52,NA,False,Live Registry
+1,607,C:\Users\john\AppData\Local\Temp\{7B81D639-E81D-4C58-BC6D-F5E105721634}\ISBEW64.exe,2019-12-20 02:23:30,NA,False,Live Registry
+1,608,C:\Program Files\Dell\SupportAssistAgent\bin\SupportAssistUI.exe,2021-07-16 22:24:10,NA,False,Live Registry
+1,609,C:\Users\john\AppData\Local\Temp\{3A539D86-D3FD-4D54-852E-16219C4D9436}\ISBEW64.exe,2019-12-20 02:23:30,NA,False,Live Registry
+1,610,C:\Users\john\AppData\Local\Temp\{0FDF2580-FA43-4B78-9ED2-D2334CA81038}\ISBEW64.exe,2019-12-20 02:23:30,NA,False,Live Registry
+1,611,C:\Users\john\AppData\Local\Temp\{1AB3F6E8-A8CA-4A83-B69B-24B6213F7C66}\ISBEW64.exe,2019-12-20 02:23:30,NA,False,Live Registry
+1,612,C:\Users\john\AppData\Local\Temp\{6805063C-E09D-4F68-A535-938D5B10227E}\ISBEW64.exe,2019-12-20 02:23:30,NA,False,Live Registry
+1,613,C:\Users\john\AppData\Local\Temp\{9BAD01A8-6259-4FA9-933A-282ABDFFAA40}\ISBEW64.exe,2019-12-20 02:23:30,NA,False,Live Registry
+1,614,C:\Users\john\AppData\Local\Temp\{153B85E2-5D12-4CFB-95C5-58E97B8C7039}\ISBEW64.exe,2019-12-20 02:23:30,NA,False,Live Registry
+1,615,C:\Users\john\AppData\Local\Temp\{56B4780B-1904-48E9-ADED-236577F828BA}\ISBEW64.exe,2019-12-20 02:23:30,NA,False,Live Registry
+1,616,C:\Users\john\AppData\Local\Temp\{3831F5B4-0ED5-4E6B-AE73-9B825BBC85DE}\ISBEW64.exe,2019-12-20 02:23:30,NA,False,Live Registry
+1,617,C:\Users\john\AppData\Local\Temp\{80A328AB-43CF-4B0B-8BF2-BD8BB5EE1E34}\ISBEW64.exe,2019-12-20 02:23:30,NA,False,Live Registry
+1,618,C:\Users\john\AppData\Local\Temp\{799B9FE1-52B0-47D7-8DEE-1E9ACB3321D3}\ISBEW64.exe,2019-12-20 02:23:30,NA,False,Live Registry
+1,619,C:\Users\john\AppData\Local\Temp\hfjpzj21.5jy\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-30 12:12:55,NA,False,Live Registry
+1,620,C:\Users\john\AppData\Local\Temp\3dod5xun.ckx\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-30 12:10:54,NA,False,Live Registry
+1,621,C:\Users\john\AppData\Local\Temp\opwxnkhx.bkx\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-30 12:08:54,NA,False,Live Registry
+1,622,C:\Users\john\AppData\Local\Temp\houovmea.jry\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-30 12:06:54,NA,False,Live Registry
+1,623,C:\Users\john\AppData\Local\Temp\lbke32td.n30\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-30 12:04:54,NA,False,Live Registry
+1,624,C:\Users\john\AppData\Local\Temp\g1p4jxil.0x4\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-30 12:02:55,NA,False,Live Registry
+1,625,C:\Users\john\AppData\Local\Temp\pbhqntdt.4kx\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-30 12:00:55,NA,False,Live Registry
+1,626,C:\Users\john\AppData\Local\Temp\zp0ivk5e.n4o\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-30 11:58:55,NA,False,Live Registry
+1,627,C:\Users\john\AppData\Local\Temp\tfkpj3lh.zvx\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-30 11:56:55,NA,False,Live Registry
+1,628,C:\Users\john\AppData\Local\Temp\3xnzlash.atw\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-30 11:54:55,NA,False,Live Registry
+1,629,C:\Users\john\AppData\Local\Temp\4dpwx5t0.zq4\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-30 11:52:51,NA,False,Live Registry
+1,630,C:\Users\john\AppData\Local\Temp\czznhnou.cpv\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-30 11:50:47,NA,False,Live Registry
+1,631,C:\Users\john\AppData\Local\Temp\oezd0yae.nbz\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-30 11:48:55,NA,False,Live Registry
+1,632,C:\Users\john\AppData\Local\Temp\kdaqo2zn.rem\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-30 11:46:55,NA,False,Live Registry
+1,633,C:\Users\john\AppData\Local\Temp\zgcotzsp.rda\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-30 11:44:54,NA,False,Live Registry
+1,634,C:\Users\john\AppData\Local\Temp\ahhxhug0.u32\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-30 11:42:55,NA,False,Live Registry
+1,635,C:\Users\john\AppData\Local\Temp\h5qt4i5s.fi1\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-30 11:40:54,NA,False,Live Registry
+1,636,C:\Users\john\AppData\Local\Temp\m1ff234x.yvn\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-30 11:38:55,NA,False,Live Registry
+1,637,C:\Users\john\AppData\Local\Temp\fa1h22mf.ort\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-30 11:36:56,NA,False,Live Registry
+1,638,C:\Users\john\AppData\Local\Temp\rgnmx1ek.54k\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-30 11:34:55,NA,False,Live Registry
+1,639,C:\Users\john\AppData\Local\Temp\acat0jpj.rof\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-30 11:32:57,NA,False,Live Registry
+1,640,C:\Users\john\AppData\Local\Temp\5nnj2m5p.dra\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-30 11:30:55,NA,False,Live Registry
+1,641,C:\Users\john\AppData\Local\Temp\2nwefgda.5kv\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-30 11:28:47,NA,False,Live Registry
+1,642,C:\Users\john\AppData\Local\Temp\qxng31b4.etf\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-30 11:26:55,NA,False,Live Registry
+1,643,C:\Users\john\AppData\Local\Temp\1dtxukxk.53a\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-30 11:24:56,NA,False,Live Registry
+1,644,C:\Users\john\AppData\Local\Temp\skw5ypsg.dxp\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-30 11:22:56,NA,False,Live Registry
+1,645,C:\Users\john\AppData\Local\Temp\yvlkmkur.pto\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-30 11:20:13,NA,False,Live Registry
+1,646,C:\Users\john\AppData\Local\Temp\itwikyv2.wyt\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-30 11:17:52,NA,False,Live Registry
+1,647,C:\Users\john\AppData\Local\Temp\nomzfi3p.hvt\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-30 11:15:40,NA,False,Live Registry
+1,648,C:\Users\john\AppData\Local\Temp\E4CD05A4-4833-4EA0-A579-1D9D7FCF7718\dismhost.exe,2021-07-22 07:50:27,NA,False,Live Registry
+1,649,00000009	000a0004a3530000	000a000047ba0000	8664	Microsoft.Getstarted	8wekyb3d8bbwe	,,NA,False,Live Registry
+1,650,00000009	3e8137944eb60000	000a000047ba0000	8664	Microsoft.Office.OneNote	8wekyb3d8bbwe	,,NA,False,Live Registry
+1,651,C:\Users\john\AppData\Local\Temp\184F9FE2-AFF2-440A-80F0-90D661E69945\dismhost.exe,2021-07-22 07:50:27,NA,False,Live Registry
+1,652,C:\Users\john\AppData\Local\Temp\iv3iniv4.0et\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-30 11:12:17,NA,False,Live Registry
+1,653,c:\Users\john\.vscode\extensions\ms-vscode.cpptools-1.5.1\bin\cpptools-srv.exe,2021-07-28 16:31:47,NA,False,Live Registry
+1,654,c:\Users\john\.vscode\extensions\ms-vscode.cpptools-1.5.1\bin\cpptools.exe,2021-07-28 16:31:47,NA,False,Live Registry
+1,655,C:\Program Files (x86)\Common Files\Adobe\ARM\Execute\20288\RdrServicesUpdater2_en.exe,2021-07-27 12:46:35,NA,False,Live Registry
+1,656,C:\Users\john\AppData\Local\Google\Chrome\User Data\SwReporter\92.267.200\software_reporter_tool.exe,2021-07-30 07:21:15,NA,False,Live Registry
+1,657,C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroCEF\RdrServicesUpdater.exe,2021-07-24 06:39:14,NA,False,Live Registry
+1,658,C:\WINDOWS\Installer\MSI4A4F.tmp,2021-07-29 16:29:45,NA,False,Live Registry
+1,659,C:\Program Files (x86)\Common Files\Adobe\ARM\1.0\AdobeARMHelper.exe,2021-01-25 19:55:56,NA,False,Live Registry
+1,660,C:\Program Files (x86)\VideoLAN\VLC\vlc.exe,2021-06-18 17:14:46,NA,False,Live Registry
+1,661,C:\Program Files (x86)\VideoLAN\VLC\vlc-cache-gen.exe,2021-06-18 17:14:48,NA,False,Live Registry
+1,662,C:\Users\john\Downloads\vlc-3.0.16-win32.exe,2021-07-29 16:08:39,NA,False,Live Registry
+1,663,C:\Users\john\AppData\Local\Temp\Procmon64.exe,2021-07-29 16:05:58,NA,False,Live Registry
+1,664,C:\SysInternals\Procmon.exe,2019-11-27 10:04:16,NA,False,Live Registry
+1,665,C:\Users\john\AppData\Local\Temp\33dbesh5.jum\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-29 15:59:17,NA,False,Live Registry
+1,666,C:\Users\john\AppData\Local\Temp\k2v4ewyr.vh2\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-29 15:15:31,NA,False,Live Registry
+1,667,C:\Users\john\AppData\Local\Temp\wmwtwdle.qqs\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-29 14:30:21,NA,False,Live Registry
+1,668,C:\Users\john\AppData\Local\Temp\zzjmnuzj.yj5\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-29 14:14:50,NA,False,Live Registry
+1,669,C:\WINDOWS\TEMP\inv7DB9_tmp\Dell_ThermalCIC\Dell_ThermalPpkgInstaller.exe,2021-07-08 02:27:05,NA,False,Live Registry
+1,670,C:\WINDOWS\TEMP\inv7DB9_tmp\Novatek\Rom_Check_Aux_Tool.exe,2021-05-24 07:32:41,NA,False,Live Registry
+1,671,C:\WINDOWS\TEMP\inv7DB9_tmp\Dell_DBUtilPackageInstaller\Dell_DBUtilPackageInstaller.exe,2021-06-25 04:10:02,NA,False,Live Registry
+1,672,C:\WINDOWS\TEMP\inv7DB9_tmp\ExtensionINFINV\EXTDRVRInv.exe,2021-05-24 07:32:40,NA,False,Live Registry
+1,673,C:\WINDOWS\TEMP\inv7DB9_tmp\SoftCompInv\SOFTWARECOMPONENTInv.exe,2021-05-24 07:32:41,NA,False,Live Registry
+1,674,C:\WINDOWS\TEMP\inv7DB9_tmp\Thunderbolt_Reg\Executables\DRVUpdate.exe,2021-07-08 02:28:41,NA,False,Live Registry
+1,675,C:\WINDOWS\TEMP\inv7DB9_tmp\AppxInventory\APPXInventory.exe,2021-05-24 07:32:40,NA,False,Live Registry
+1,676,C:\WINDOWS\TEMP\inv7DB9_tmp\Thunderbolt_Reg\RLtek_USB_Driver_WOW\..\ThunderboltRegModule.exe,2021-07-08 02:28:52,NA,False,Live Registry
+1,677,C:\WINDOWS\TEMP\inv7DB9_tmp\Thunderbolt_Reg\ASMedia_USB_Controller\..\ThunderboltRegModule.exe,2021-07-08 02:28:52,NA,False,Live Registry
+1,678,C:\WINDOWS\TEMP\inv7DB9_tmp\Thunderbolt_Reg\TB_Controller_new\..\ThunderboltRegModule.exe,2021-07-08 02:28:52,NA,False,Live Registry
+1,679,C:\WINDOWS\TEMP\inv7DB9_tmp\Thunderbolt_Reg\RLtek_USB_Driver\..\ThunderboltRegModule.exe,2021-07-08 02:28:52,NA,False,Live Registry
+1,680,C:\WINDOWS\TEMP\inv7DB9_tmp\Thunderbolt_Reg\RLtek_Ethernate\..\ThunderboltRegModule.exe,2021-07-08 02:28:52,NA,False,Live Registry
+1,681,C:\WINDOWS\TEMP\inv7DB9_tmp\Thunderbolt_Reg\TB_Firmware\..\ThunderboltRegModule.exe,2021-07-08 02:28:52,NA,False,Live Registry
+1,682,C:\WINDOWS\TEMP\inv7DB9_tmp\Dell_OSRI\Dell_OSRI_CIC.exe,2021-05-24 07:32:40,NA,False,Live Registry
+1,683,C:\WINDOWS\TEMP\inv7DB9_tmp\TBT_Dock_Firmware\GetDockVer32W.exe,2021-07-08 02:30:19,NA,False,Live Registry
+1,684,C:\WINDOWS\TEMP\inv7DB9_tmp\SalomonDock\SalomonDock.exe,2021-05-24 07:32:41,NA,False,Live Registry
+1,685,C:\WINDOWS\TEMP\inv7DB9_tmp\Executables\PNPUpdate.exe,2021-07-08 02:28:45,NA,False,Live Registry
+1,686,C:\WINDOWS\TEMP\inv7DB9_tmp\Thunderbolt_Reg\ThunderboltZeroInv.exe,2021-07-08 02:28:58,NA,False,Live Registry
+1,687,C:\WINDOWS\TEMP\inv7DB9_tmp\Executables\Appupdate.exe,2021-07-08 02:28:43,NA,False,Live Registry
+1,688,C:\WINDOWS\TEMP\inv7DB9_tmp\Executables\SSDUpdate.exe,2021-07-08 02:28:46,NA,False,Live Registry
+1,689,C:\WINDOWS\TEMP\inv7DB9_tmp\Executables\UsbUpdate.exe,2021-07-08 02:28:44,NA,False,Live Registry
+1,690,C:\WINDOWS\TEMP\inv7DB9_tmp\SCSI_ODD\SCSIupdate.exe,2021-05-24 07:32:41,NA,False,Live Registry
+1,691,C:\WINDOWS\TEMP\inv7DB9_tmp\RegMSI\Reg-MSI_Inventory.exe,2021-05-24 07:32:41,NA,False,Live Registry
+1,692,C:\WINDOWS\TEMP\inv7DB9_tmp\OSINV\osinv.exe,2021-07-08 02:30:14,NA,False,Live Registry
+1,693,C:\WINDOWS\TEMP\inv7DB9_tmp\libsmbios\smbiosinfo.exe,2021-07-08 02:30:15,NA,False,Live Registry
+1,694,C:\WINDOWS\TEMP\inv7DB9_tmp\Executables\DRVUpdate.exe,2021-07-08 02:28:41,NA,False,Live Registry
+1,695,C:\WINDOWS\TEMP\inv7DB9_tmp\invcol.exe,2021-07-08 02:30:10,NA,False,Live Registry
+1,696,C:\Users\john\AppData\Local\Temp\3d3uqap0.w2j\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-29 14:02:30,NA,False,Live Registry
+1,697,C:\Users\john\AppData\Local\Temp\hshbyzif.kgp\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-29 13:54:12,NA,False,Live Registry
+1,698,C:\Users\john\AppData\Local\Temp\nt45g2d5.yab\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-29 13:41:48,NA,False,Live Registry
+1,699,C:\Program Files\WindowsApps\Microsoft.WindowsCalculator_10.2103.8.0_x64__8wekyb3d8bbwe\Application,2021-06-05 18:17:28,NA,False,Live Registry
+1,700,00000009	000a083700080000	000a000047ba0000	8664	Microsoft.WindowsCalculator	8wekyb3d8bbwe	,,NA,False,Live Registry
+1,701,C:\WINDOWS\system32\calc.exe,2019-12-07 09:09:47,NA,False,Live Registry
+1,702,C:\Users\john\AppData\Local\Temp\gpzpmlb1.qku\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-29 09:13:15,NA,False,Live Registry
+1,703,C:\Users\john\AppData\Local\Temp\15E02AED-F2C7-461F-A50E-2FA3D934DB74\dismhost.exe,2021-07-22 07:50:27,NA,False,Live Registry
+1,704,C:\Users\john\AppData\Local\Temp\jczccwgj.5v3\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-29 08:06:12,NA,False,Live Registry
+1,705,C:\WINDOWS\System32\sdiagnhost.exe,2019-12-07 09:09:50,NA,False,Live Registry
+1,706,C:\WINDOWS\System32\WinBioPlugIns\FaceFodUninstaller.exe,2021-07-22 07:50:41,NA,False,Live Registry
+1,707,C:\WINDOWS\system32\tzsync.exe,2019-12-07 09:09:00,NA,False,Live Registry
+1,708,C:\Program Files (x86)\MySQL\MySQL Installer for Windows\MySQLInstallerConsole.exe,2020-08-18 05:06:36,NA,False,Live Registry
+1,709,C:\WINDOWS\System32\WaaSMedicAgent.exe,2021-07-22 07:50:08,NA,False,Live Registry
+1,710,C:\WINDOWS\SysWOW64\config\systemprofile\Citrix\UpdaterBinaries\06b069f4-ca21-4f56-b1f3-06e18078fb65\CitrixReceiverUpdater.exe,2021-05-03 01:00:04,NA,False,Live Registry
+1,711,C:\WINDOWS\System32\LocationNotificationWindows.exe,2019-12-07 09:09:44,NA,False,Live Registry
+1,712,c:\Users\john\.vscode\extensions\ms-vscode.cpptools-1.2.2\bin\cpptools-srv.exe,2021-07-28 16:31:38,NA,False,Live Registry
+1,713,c:\Users\john\.vscode\extensions\ms-vscode.cpptools-1.2.2\bin\cpptools.exe,2021-07-28 16:31:38,NA,False,Live Registry
+1,714,0000000b	005c000003860037	000c000000000000	8664	Microsoft.MicrosoftEdge.Stable	8wekyb3d8bbwe	,,NA,False,Live Registry
+1,715,C:\Program Files (x86)\Microsoft\Edge\Application\92.0.902.55\identity_helper.exe,2021-07-21 06:43:16,NA,False,Live Registry
+1,716,C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.AnyCPU\ServiceHub.TestWindowStoreHost.exe,2020-10-19 16:16:12,NA,False,Live Registry
+1,717,C:\Users\john\AppData\Local\Programs\Microsoft VS Code\tools\inno_updater.exe,2021-08-04 20:36:56,NA,False,Live Registry
+1,718,C:\Users\john\AppData\Local\Temp\is-BOSOT.tmp\CodeSetup-stable-c3f126316369cd610563c75b1b1725e0679adfb3.tmp,2021-07-28 16:18:51,NA,False,Live Registry
+1,719,C:\Users\john\AppData\Local\Temp\vscode-update-user-x64\CodeSetup-stable-c3f126316369cd610563c75b1b1725e0679adfb3.exe,2021-07-28 16:18:43,NA,False,Live Registry
+1,720,c:\Users\john\.vscode\extensions\ms-vscode.cpptools-1.1.3\bin\cpptools-srv.exe,2021-07-28 16:18:12,NA,False,Live Registry
+1,721,c:\mingw\bin\..\libexec\gcc\mingw32\6.3.0\cc1plus.exe,2017-05-29 20:59:57,NA,False,Live Registry
+1,722,C:\MinGW\bin\g++.exe,2017-05-29 20:59:36,NA,False,Live Registry
+1,723,c:\Windows\System32\fsutil.exe,2019-12-07 09:09:57,NA,False,Live Registry
+1,724,C:\Windows\SysWOW64\fsutil.exe,2019-12-07 09:09:57,NA,False,Live Registry
+1,725,c:\Users\john\.vscode\extensions\ms-vscode.cpptools-1.1.3\bin\cpptools.exe,2021-07-28 16:18:12,NA,False,Live Registry
+1,726,c:\Users\john\AppData\Local\Programs\Microsoft VS Code\resources\app\node_modules.asar.unpacked\vscode-ripgrep\bin\rg.exe,2021-08-04 20:36:56,NA,False,Live Registry
+1,727,c:\Users\john\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\platform\files\node\watcher\win32\CodeHelper.exe,2021-08-04 20:36:52,NA,False,Live Registry
+1,728,C:\Users\john\AppData\Local\Microsoft\Teams\stage\Teams.exe,2021-07-28 15:38:43,NA,False,Live Registry
+1,729,C:\Users\john\AppData\Local\Microsoft\Teams\stage\Squirrel.exe,2021-07-28 15:38:42,NA,False,Live Registry
+1,730,C:\Program Files\7-Zip\7zG.exe,2019-02-21 16:00:00,NA,False,Live Registry
+1,731,C:\WINDOWS\SysWOW64\find.exe,2019-12-07 09:09:57,NA,False,Live Registry
+1,732,C:\WINDOWS\System32\find.exe,2019-12-07 09:09:57,NA,False,Live Registry
+1,733,C:\WINDOWS\SysWOW64\mountvol.exe,2019-12-07 09:09:57,NA,False,Live Registry
+1,734,C:\WINDOWS\System32\mountvol.exe,2019-12-07 09:09:57,NA,False,Live Registry
+1,735,C:\WINDOWS\System32\reg.exe,2019-12-07 09:09:33,NA,False,Live Registry
+1,736,C:\Program Files\Dell\SupportAssistAgent\SRE\SRE.exe,2021-07-05 16:59:22,NA,False,Live Registry
+1,737,C:\Users\john\AppData\Local\Temp\CA83E829-B079-449F-9138-10FD7C45F96C\dismhost.exe,2021-07-22 07:50:27,NA,False,Live Registry
+1,738,C:\Users\john\AppData\Local\Temp\e3213qen.k30\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-28 08:17:30,NA,False,Live Registry
+1,739,C:\Program Files\WindowsApps\DolbyLaboratories.DolbyAccess_3.8.1165.0_x64__rz1tebttyb220\Application,2021-07-27 14:04:28,NA,False,Live Registry
+1,740,00000009	00030008048d0000	000a000047ba0000	8664	DolbyLaboratories.DolbyAccess	rz1tebttyb220	,,NA,False,Live Registry
+1,741,0000000b	0001083b32c90000	000a00004a610000	8664	Microsoft.WinDbg	8wekyb3d8bbwe	,,NA,False,Live Registry
+1,742,C:\Program Files (x86)\VMware\VMware Workstation\x64\vmware-vmx.exe,2020-06-04 21:20:30,NA,False,Live Registry
+1,743,C:\Program Files (x86)\VMware\VMware Workstation\vmware-unity-helper.exe,2020-06-04 21:18:48,NA,False,Live Registry
+1,744,C:\Program Files (x86)\Notepad++\updater\gup.exe,2019-10-27 22:12:02,NA,False,Live Registry
+1,745,C:\Users\john\AppData\Local\Temp\F3D91697-7436-4A85-B01A-18F6E4461401\dismhost.exe,2021-07-22 07:50:27,NA,False,Live Registry
+1,746,C:\Users\john\AppData\Local\Temp\dqe2vpli.ngh\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-27 07:45:17,NA,False,Live Registry
+1,747,C:\Program Files (x86)\Google\Update\Install\{5778E89F-7E45-4529-ADE7-5738DDB10EF0}\CR_0AA74.tmp\setup.exe,2021-07-27 07:19:07,NA,False,Live Registry
+1,748,C:\Program Files (x86)\Google\Update\Install\{5778E89F-7E45-4529-ADE7-5738DDB10EF0}\92.0.4515.107_91.0.4472.164_chrome_updater.exe,2021-07-27 07:19:04,NA,False,Live Registry
+1,749,C:\WINDOWS\system32\ftp.exe,2019-12-07 09:09:51,NA,False,Live Registry
+1,750,C:\WINDOWS\SYSTEM32\ipconfig.exe,2019-12-07 09:09:33,NA,False,Live Registry
+1,751,C:\WINDOWS\system32\route.exe,2019-12-07 09:09:34,NA,False,Live Registry
+1,752,C:\Program Files (x86)\ExpressVPN\expressvpnd\windows\openvpn.exe,2019-11-01 02:24:48,NA,False,Live Registry
+1,753,C:\Users\john\AppData\Local\Temp\kx1tdocp.pwm\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-26 15:06:45,NA,False,Live Registry
+1,754,C:\Users\john\AppData\Local\Temp\isxrp1bp.kyh\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-26 14:58:46,NA,False,Live Registry
+1,755,C:\Program Files (x86)\Common Files\Apple\Apple Application Support\APSDaemon.exe,2013-09-13 16:51:06,NA,False,Live Registry
+1,756,C:\Program Files (x86)\Citrix\ICA Client\receiver\ceip.exe,2021-05-03 01:00:02,NA,False,Live Registry
+1,757,C:\WINDOWS\System32\BdeUISrv.exe,2021-07-22 07:51:10,NA,False,Live Registry
+1,758,C:\WINDOWS\TEMP\FDE93126-3295-40E7-8739-717A6CBF230E\dismhost.exe,2021-07-22 07:50:27,NA,False,Live Registry
+1,759,C:\Program Files\Microsoft Office\Root\Office16\protocolhandler.exe,2021-07-22 16:44:21,NA,False,Live Registry
+1,760,C:\Users\john\AppData\Local\Temp\fpqnzg1x.kzv\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-26 10:39:32,NA,False,Live Registry
+1,761,C:\Users\john\AppData\Local\Temp\9D44F51A-0423-4845-BC91-24C78C842D7D\dismhost.exe,2021-07-22 07:50:27,NA,False,Live Registry
+1,762,C:\Users\john\AppData\Local\Temp\c3zomhmy.qyr\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-26 09:52:33,NA,False,Live Registry
+1,763,C:\Users\john\AppData\Local\exodus\app-21.6.18\Exodus.exe,2021-06-25 08:25:35,NA,False,Live Registry
+1,764,C:\Users\john\Downloads\dotNetFx40_Full_setup.exe,2020-10-21 09:32:52,NA,False,Live Registry
+1,765,C:\Users\john\Downloads\vs_community__828352011.1573637235.exe,2020-10-19 16:10:05,NA,False,Live Registry
+1,766,C:\Users\john\Downloads\VC_redist.x64.exe,2020-10-21 09:34:45,NA,False,Live Registry
+1,767,C:\WINDOWS\system32\utilman.exe,2021-07-22 07:50:14,NA,False,Live Registry
+1,768,C:\Users\john\AppData\Local\Microsoft\Teams\current\Teams.exe,2021-07-28 15:38:43,NA,False,Live Registry
+1,769,C:\Program Files\Microsoft Office\root\Office16\ADDINS\Microsoft Power Query for Excel Integrated\bin\Microsoft.Mashup.Container.Loader.exe,2020-10-01 07:04:34,NA,False,Live Registry
+1,770,C:\Program Files\JetBrains\PyCharm Community Edition 2020.1.3\jbr\bin\java.exe,2020-06-22 12:08:32,NA,False,Live Registry
+1,771,C:\Users\john\Desktop\Everything\Forensics_tools\Browser Forensics\hindsight-master\dist\hindsight_gui.exe,2021-04-27 22:50:10,NA,False,Live Registry
+1,772,C:\Users\john\Desktop\Everything\Forensics_tools\Browser Forensics\hindsight-master\dist\hindsight.exe,2021-04-27 22:50:10,NA,False,Live Registry
+1,773,C:\Windows\System32\wbem\WMIC.exe,2019-12-07 09:08:19,NA,False,Live Registry
+1,774,C:\Program Files\JetBrains\PyCharm Community Edition 2020.1.3\bin\fsnotifier64.exe,2020-07-07 16:07:46,NA,False,Live Registry
+1,775,C:\Program Files\JetBrains\PyCharm Community Edition 2020.1.3\jbr\bin\awt.dll,2020-06-22 12:08:32,NA,False,Live Registry
+1,776,C:\Users\john\Desktop\Everything\IR\Ayalon\Evidence\ws3_update.exe,2021-07-21 09:19:33,NA,False,Live Registry
+1,777,C:\Users\john\AppData\Local\Temp\ekuctyjp.34l\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-25 05:43:07,NA,False,Live Registry
+1,778,C:\Users\john\AppData\Local\Temp\1DD74BC7-674A-48C7-8D3A-5F13EEC9EAB4\dismhost.exe,2021-07-22 07:50:27,NA,False,Live Registry
+1,779,C:\Users\john\AppData\Local\Temp\ansvm2p0.qos\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-25 05:15:42,NA,False,Live Registry
+1,780,C:\Users\john\AppData\Local\Temp\220B7290-CA8F-4D7F-A53F-A03DC7F1E6D2\dismhost.exe,2021-07-22 07:50:27,NA,False,Live Registry
+1,781,C:\Users\john\AppData\Local\Temp\35E3E7C6-E91A-4A69-A886-560258136DDA\dismhost.exe,2021-07-22 07:50:27,NA,False,Live Registry
+1,782,C:\Users\john\AppData\Local\Temp\owoe1x04.dsy\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-25 05:10:46,NA,False,Live Registry
+1,783,C:\WINDOWS\system32\lpremove.exe,2021-07-22 07:50:21,NA,False,Live Registry
+1,784,C:\Program Files (x86)\Microsoft\Edge\Application\92.0.902.55\Installer\setup.exe,2021-07-24 09:06:12,NA,False,Live Registry
+1,785,C:\Program Files (x86)\Microsoft\EdgeUpdate\Install\{77E98D06-62CD-434A-A567-2603C80226D7}\EDGEMITMP_D4923.tmp\setup.exe,2021-07-24 19:47:21,NA,False,Live Registry
+1,786,C:\Program Files (x86)\Microsoft\EdgeUpdate\Install\{77E98D06-62CD-434A-A567-2603C80226D7}\MicrosoftEdge_X64_92.0.902.55.exe,2021-07-24 19:47:14,NA,False,Live Registry
+1,787,C:\WINDOWS\SysWOW64\config\systemprofile\Citrix\UpdaterBinaries\595e1db3-1afa-46d1-abb7-241af8594874\CitrixReceiverUpdater.exe,2021-05-03 01:00:04,NA,False,Live Registry
+1,788,C:\Program Files\WindowsApps\king.com.CandyCrushSodaSaga_1.198.300.0_x86__kgqvnymyfvs32\Application,2021-07-24 14:41:48,NA,False,Live Registry
+1,789,00000000	000100c6012c0000	000a000047ba0000	014c	king.com.CandyCrushSodaSaga	kgqvnymyfvs32	,,NA,False,Live Registry
+1,790,00000000	000100c6012c0000	000a000047ba0000	8664	king.com.CandyCrushSodaSaga	kgqvnymyfvs32	,,NA,False,Live Registry
+1,791,C:\Program Files\WindowsApps\AD2F1837.HPPrinterControl_129.1.234.0_x64__v10z8vjag6ke6\Application,2021-07-24 14:41:35,NA,False,Live Registry
+1,792,00000009	0081000100ea0000	000a000047ba0000	8664	AD2F1837.HPPrinterControl	v10z8vjag6ke6	,,NA,False,Live Registry
+1,793,00000009	3e8137334e280000	000a000047ba0000	8664	Microsoft.Office.OneNote	8wekyb3d8bbwe	,,NA,False,Live Registry
+1,794,C:\Program Files\WindowsApps\Microsoft.MicrosoftOfficeHub_18.2106.12410.0_x64__8wekyb3d8bbwe\Application,2021-07-24 14:40:28,NA,False,Live Registry
+1,795,00000009	0012083a307a0000	000a000042ee0000	8664	Microsoft.MicrosoftOfficeHub	8wekyb3d8bbwe	,,NA,False,Live Registry
+1,796,C:\Users\john\AppData\Local\Temp\F7F5A5B1-34B0-48BA-BAB2-758ACA018665\dismhost.exe,2021-07-22 07:50:27,NA,False,Live Registry
+1,797,C:\Users\john\AppData\Local\Temp\wa0tso0p.qco\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-24 13:26:37,NA,False,Live Registry
+1,798,C:\Windows\System32\OOBE\SetupPlatform\SetupPlatform.exe,2021-07-09 02:57:24,NA,False,Live Registry
+1,799,C:\Program Files (x86)\Microsoft\EdgeUpdate\Install\{BB08F2B5-9409-4CD5-B4D8-C67BE27E6106}\EDGEMITMP_6A24C.tmp\setup.exe,2021-07-24 09:06:12,NA,False,Live Registry
+1,800,C:\Program Files (x86)\Microsoft\EdgeUpdate\Install\{BB08F2B5-9409-4CD5-B4D8-C67BE27E6106}\MicrosoftEdge_X64_92.0.902.55_91.0.864.71.exe,2021-07-24 09:06:04,NA,False,Live Registry
+1,801,C:\Program Files\Dell\SupportAssistAgent\bin\SupportAssistInstaller.exe,2021-07-16 22:23:14,NA,False,Live Registry
+1,802,C:\Users\john\AppData\Local\Temp\h1nq5tfk.jjb\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-23 12:06:39,NA,False,Live Registry
+1,803,C:\Users\john\AppData\Local\Temp\4e0qiaup.qa5\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-23 11:33:21,NA,False,Live Registry
+1,804,C:\Users\john\AppData\Local\Microsoft\OneDrive\OneDriveStandaloneUpdater.exe,2021-08-05 10:58:01,NA,False,Live Registry
+1,805,C:\Users\john\AppData\Roaming\Telegram Desktop\Updater.exe,2021-07-31 10:14:24,NA,False,Live Registry
+1,806,C:\Program Files\Dell\SupportAssistAgent\PCD\SupportAssist\SystemIdleCheck.exe,2021-07-05 19:55:50,NA,False,Live Registry
+1,807,C:\Users\john\AppData\Roaming\Zoom\bin\aomhost\aomhost64.exe,2021-08-02 06:43:56,NA,False,Live Registry
+1,808,C:\Users\john\AppData\Local\Temp\a34os5np.p3z\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-23 07:14:10,NA,False,Live Registry
+1,809,C:\Users\john\AppData\Local\Temp\t3y4enqo.jru\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-23 07:12:09,NA,False,Live Registry
+1,810,C:\Users\john\AppData\Local\Temp\qjo4cm1h.lq3\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-23 07:10:10,NA,False,Live Registry
+1,811,C:\Users\john\AppData\Local\Temp\2tbwmz3u.4kb\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-23 07:08:09,NA,False,Live Registry
+1,812,C:\Users\john\AppData\Local\Temp\0yml4y5l.ucj\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-23 07:06:10,NA,False,Live Registry
+1,813,C:\Users\john\AppData\Local\Temp\spczlw4e.b5r\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-23 07:04:11,NA,False,Live Registry
+1,814,C:\Users\john\AppData\Local\Temp\ty2sxha0.urb\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-23 07:01:46,NA,False,Live Registry
+1,815,C:\Users\john\AppData\Local\Temp\02xkrwhu.ln5\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-23 06:59:05,NA,False,Live Registry
+1,816,C:\Users\john\AppData\Local\Temp\rkyr4iwa.xpq\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-23 06:55:10,NA,False,Live Registry
+1,817,C:\Users\john\AppData\Local\Temp\jhxh2o1f.oq2\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-23 06:52:58,NA,False,Live Registry
+1,818,C:\Users\john\AppData\Local\Temp\nn1ccvsj.mg4\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-23 06:50:55,NA,False,Live Registry
+1,819,C:\Users\john\AppData\Local\Temp\1og14fez.yvb\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-23 06:49:03,NA,False,Live Registry
+1,820,C:\Users\john\AppData\Local\Temp\uzvnbtdk.mt0\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-23 06:46:53,NA,False,Live Registry
+1,821,C:\Users\john\AppData\Local\Temp\z3u204a5.z41\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-23 06:45:10,NA,False,Live Registry
+1,822,C:\Users\john\AppData\Local\Temp\zlgyyay3.u0i\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-23 06:43:09,NA,False,Live Registry
+1,823,C:\Users\john\AppData\Local\Temp\1e3emmcc.tnv\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-23 06:41:08,NA,False,Live Registry
+1,824,C:\Users\john\AppData\Local\Temp\k032kt5a.xxo\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-23 06:39:09,NA,False,Live Registry
+1,825,C:\Users\john\AppData\Local\Temp\ithpmrdv.s4t\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-23 06:37:08,NA,False,Live Registry
+1,826,C:\Users\john\AppData\Local\Temp\j2tljzkx.0wy\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-23 06:35:09,NA,False,Live Registry
+1,827,C:\WINDOWS\system32\winsat.exe,2021-07-22 07:50:49,NA,False,Live Registry
+1,828,C:\Users\john\AppData\Local\Temp\5wq3rzvx.bqf\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-23 06:33:09,NA,False,Live Registry
+1,829,C:\Users\john\AppData\Local\Temp\942E2C51-A91D-433A-817D-2E1B8CE8F7B4\dismhost.exe,2021-07-22 07:50:27,NA,False,Live Registry
+1,830,C:\Users\john\AppData\Local\Temp\2htwazks.0gx\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-23 06:31:19,NA,False,Live Registry
+1,831,C:\WINDOWS\system32\dstokenclean.exe,2021-07-22 07:50:00,NA,False,Live Registry
+1,832,C:\WINDOWS\system32\disksnapshot.exe,2021-07-22 07:50:10,NA,False,Live Registry
+1,833,C:\WINDOWS\system32\AppHostRegistrationVerifier.exe,2021-07-22 07:50:00,NA,False,Live Registry
+1,834,00000000	0001080c00020000	000a00004a610000	8664	king.com.CandyCrushSaga	kgqvnymyfvs32	,,NA,False,Live Registry
+1,835,C:\WINDOWS\SoftwareDistribution\Download\89c4cc4a284f600c02d48ca23d77e124\unifiedinstaller.exe,2021-07-22 05:52:51,NA,False,Live Registry
+1,836,C:\Program Files\WindowsApps\Microsoft.XboxIdentityProvider_12.67.21001.0_x64__8wekyb3d8bbwe\Application,2021-06-05 17:52:02,NA,False,Live Registry
+1,837,00000009	000c004352090000	000a000045630000	8664	Microsoft.XboxIdentityProvider	8wekyb3d8bbwe	,,NA,False,Live Registry
+1,838,C:\Program Files\WindowsApps\Microsoft.XboxGamingOverlay_5.721.6282.0_x64__8wekyb3d8bbwe\GameBarFTServer.exe,2021-07-14 10:43:44,NA,False,Live Registry
+1,839,C:\Program Files\WindowsApps\Microsoft.XboxGamingOverlay_5.721.6282.0_x64__8wekyb3d8bbwe\Application,2021-07-14 10:43:48,NA,False,Live Registry
+1,840,00000009	000502d1188a0000	000a00004a610000	8664	Microsoft.XboxGamingOverlay	8wekyb3d8bbwe	,,NA,False,Live Registry
+1,841,C:\WINDOWS\system32\wuauclt.exe,2021-07-22 07:50:12,NA,False,Live Registry
+1,842,C:\WINDOWS\System32\sihclient.exe,2021-07-22 07:50:49,NA,False,Live Registry
+1,843,c:\WINDOWS\Microsoft.NET\Framework64\v3.5\addinutil.exe,2019-11-08 22:44:00,NA,False,Live Registry
+1,844,C:\WINDOWS\System32\wevtutil.exe,2021-07-22 07:50:10,NA,False,Live Registry
+1,845,C:\Program Files\Microsoft Office\root\integration\integrator.exe,2021-08-07 14:33:03,NA,False,Live Registry
+1,846,C:\Program Files\Common Files\Microsoft Shared\ClickToRun\AppVShNotify.exe,2021-07-17 14:23:22,NA,False,Live Registry
+1,847,C:\Program Files\Microsoft Office\root\Office16\perfboost.exe,2021-08-12 17:02:45,NA,False,Live Registry
+1,848,C:\Program Files\Common Files\Microsoft Shared\ClickToRun\Updates\16.0.14131.20332\OfficeClickToRun.exe,2021-07-17 22:21:18,NA,False,Live Registry
+1,849,C:\Users\john\Desktop\Everything\Forensics_tools\Browser Forensics\hindsight.exe,2021-07-22 16:19:18,NA,False,Live Registry
+1,850,C:\Users\john\AppData\Local\Programs\Python\Python38-32\Scripts\pip.exe,2021-04-04 14:32:58,NA,False,Live Registry
+1,851,C:\Users\john\Downloads\winzip25-p003.exe,2021-07-19 11:19:44,NA,False,Live Registry
+1,852,C:\WINDOWS\TEMP\invA27_tmp\Novatek\Rom_Check_Aux_Tool.exe,2021-05-24 07:32:41,NA,False,Live Registry
+1,853,C:\WINDOWS\TEMP\C9632CF058AE4321B6B0B5EA39B710FE,2021-08-12 14:13:46,NA,False,Live Registry
+1,854,C:\WINDOWS\TEMP\invA27_tmp\Dell_DBUtilPackageInstaller\Dell_DBUtilPackageInstaller.exe,2021-06-07 09:59:46,NA,False,Live Registry
+1,855,C:\WINDOWS\TEMP\invA27_tmp\Dell_OSRI\Dell_OSRI_CIC.exe,2021-05-24 07:32:40,NA,False,Live Registry
+1,856,C:\WINDOWS\TEMP\invA27_tmp\Dell_ThermalCIC\Dell_ThermalPpkgInstaller.exe,2021-06-03 11:13:41,NA,False,Live Registry
+1,857,C:\WINDOWS\TEMP\invA27_tmp\ExtensionINFINV\EXTDRVRInv.exe,2021-05-24 07:32:40,NA,False,Live Registry
+1,858,C:\WINDOWS\TEMP\invA27_tmp\AppxInventory\APPXInventory.exe,2021-05-24 07:32:40,NA,False,Live Registry
+1,859,C:\WINDOWS\TEMP\invA27_tmp\SoftCompInv\SOFTWARECOMPONENTInv.exe,2021-05-24 07:32:41,NA,False,Live Registry
+1,860,C:\WINDOWS\TEMP\invA27_tmp\TBT_Dock_Firmware\GetDockVer32W.exe,2021-06-07 10:09:05,NA,False,Live Registry
+1,861,C:\WINDOWS\TEMP\invA27_tmp\Thunderbolt_Reg\Executables\DRVUpdate.exe,2021-06-07 10:07:31,NA,False,Live Registry
+1,862,C:\WINDOWS\TEMP\invA27_tmp\Thunderbolt_Reg\RLtek_USB_Driver\..\ThunderboltRegModule.exe,2021-06-07 10:07:40,NA,False,Live Registry
+1,863,C:\WINDOWS\TEMP\invA27_tmp\Thunderbolt_Reg\ASMedia_USB_Controller\..\ThunderboltRegModule.exe,2021-06-07 10:07:40,NA,False,Live Registry
+1,864,C:\WINDOWS\TEMP\invA27_tmp\Thunderbolt_Reg\TB_Firmware\..\ThunderboltRegModule.exe,2021-06-07 10:07:40,NA,False,Live Registry
+1,865,C:\WINDOWS\TEMP\invA27_tmp\Thunderbolt_Reg\RLtek_USB_Driver_WOW\..\ThunderboltRegModule.exe,2021-06-07 10:07:40,NA,False,Live Registry
+1,866,C:\WINDOWS\TEMP\invA27_tmp\Thunderbolt_Reg\RLtek_Ethernate\..\ThunderboltRegModule.exe,2021-06-07 10:07:40,NA,False,Live Registry
+1,867,C:\WINDOWS\TEMP\invA27_tmp\Thunderbolt_Reg\TB_Controller_new\..\ThunderboltRegModule.exe,2021-06-07 10:07:40,NA,False,Live Registry
+1,868,C:\WINDOWS\TEMP\invA27_tmp\SalomonDock\SalomonDock.exe,2021-05-24 07:32:41,NA,False,Live Registry
+1,869,C:\WINDOWS\TEMP\invA27_tmp\Executables\Appupdate.exe,2021-06-07 10:07:32,NA,False,Live Registry
+1,870,C:\WINDOWS\TEMP\invA27_tmp\Executables\PNPUpdate.exe,2021-06-07 10:07:35,NA,False,Live Registry
+1,871,C:\WINDOWS\TEMP\invA27_tmp\Thunderbolt_Reg\ThunderboltZeroInv.exe,2021-06-07 10:07:45,NA,False,Live Registry
+1,872,C:\WINDOWS\TEMP\invA27_tmp\RegMSI\Reg-MSI_Inventory.exe,2021-05-24 07:32:41,NA,False,Live Registry
+1,873,C:\WINDOWS\TEMP\invA27_tmp\SCSI_ODD\SCSIupdate.exe,2021-05-24 07:32:41,NA,False,Live Registry
+1,874,C:\WINDOWS\TEMP\invA27_tmp\Executables\SSDUpdate.exe,2021-06-07 10:07:36,NA,False,Live Registry
+1,875,C:\WINDOWS\TEMP\invA27_tmp\Executables\UsbUpdate.exe,2021-06-07 10:07:33,NA,False,Live Registry
+1,876,C:\WINDOWS\TEMP\invA27_tmp\OSINV\osinv.exe,2021-06-07 10:09:00,NA,False,Live Registry
+1,877,C:\WINDOWS\TEMP\invA27_tmp\Executables\DRVUpdate.exe,2021-06-07 10:07:31,NA,False,Live Registry
+1,878,C:\WINDOWS\TEMP\invA27_tmp\libsmbios\smbiosinfo.exe,2021-06-07 10:09:01,NA,False,Live Registry
+1,879,C:\WINDOWS\TEMP\invA27_tmp\invcol.exe,2021-06-07 10:08:55,NA,False,Live Registry
+1,880,C:\Program Files (x86)\Dell\UpdateService\Service\InvColPC.exe,2021-07-22 11:52:49,NA,False,Live Registry
+1,881,C:\Users\john\Desktop\Everything\Forensics_tools\browser\hindsight.exe,2021-07-22 16:19:18,NA,False,Live Registry
+1,882,C:\Users\john\Downloads\hindsight.exe,2021-07-22 16:19:18,NA,False,Live Registry
+1,883,C:\Users\john\AppData\Roaming\Zoom\bin\cpthost.exe,2021-08-02 06:43:56,NA,False,Live Registry
+1,884,C:\Program Files\WindowsApps\Microsoft.WindowsCamera_2021.105.10.0_x64__8wekyb3d8bbwe\Application,2021-06-05 18:16:11,NA,False,Live Registry
+1,885,00000009	07e50069000a0000	000a00004a610000	8664	Microsoft.WindowsCamera	8wekyb3d8bbwe	,,NA,False,Live Registry
+1,886,C:\Users\john\Desktop\Everything\Forensics_tools\ShadowCopyView\ShadowCopyView.exe,2020-09-23 13:47:50,NA,False,Live Registry
+1,887,C:\Users\john\Desktop\Everything\Forensics_tools\AccessData_Registry_Viewer_2.0.0.exe,2020-11-03 16:16:53,NA,False,Live Registry
+1,888,C:\Program Files (x86)\QuickTime\QTSystem\ExportController.exe,2015-12-09 10:59:34,NA,False,Live Registry
+1,889,C:\Program Files (x86)\QuickTime\QuickTimePlayer.exe,2015-12-15 12:13:42,NA,False,Live Registry
+1,890,C:\WINDOWS\system32\srtasks.exe,2021-07-22 07:50:50,NA,False,Live Registry
+1,891,C:\Windows\Installer\{789A5B64-9DD9-4BA5-915A-F0FC0A1B7BFE}\AppleSoftwareUpdateIco.exe,2021-07-22 13:10:09,NA,False,Live Registry
+1,892,C:\Program Files (x86)\Apple Software Update\SoftwareUpdate.exe,2011-06-01 14:57:16,NA,False,Live Registry
+1,893,C:\Users\john\AppData\Local\Temp\IXP518.TMP\QuickTimeInstallerAdmin.exe,2015-12-15 12:18:38,NA,False,Live Registry
+1,894,C:\Users\john\Downloads\QuickTimeInstaller.exe,2021-07-22 13:09:34,NA,False,Live Registry
+1,895,C:\Program Files (x86)\Recoveryfix Video Repair\unins000.exe,2021-07-22 13:02:02,NA,False,Live Registry
+1,896,C:\Program Files (x86)\Recoveryfix Video Repair\KernelAppDecoder.exe,2020-01-20 15:55:26,NA,False,Live Registry
+1,897,C:\Program Files (x86)\Recoveryfix Video Repair\RecoveryFix Video Repair.exe,2020-05-02 20:36:36,NA,False,Live Registry
+1,898,C:\Users\john\AppData\Local\Temp\is-CTL15.tmp\recoveryfix-video-repair.tmp,2021-07-22 13:02:02,NA,False,Live Registry
+1,899,C:\Users\john\AppData\Local\Temp\is-IDJH2.tmp\recoveryfix-video-repair.tmp,2021-07-22 13:01:54,NA,False,Live Registry
+1,900,C:\Users\john\Downloads\recoveryfix-video-repair.exe,2021-07-22 13:01:17,NA,False,Live Registry
+1,901,C:\Users\john\AppData\Local\Temp\is-L4HKN.tmp\StellarRepairforVideo (1).tmp,2021-07-22 12:32:14,NA,False,Live Registry
+1,902,C:\Users\john\AppData\Local\Temp\is-DUM4H.tmp\StellarRepairforVideo (1).tmp,2021-07-22 12:32:09,NA,False,Live Registry
+1,903,C:\Users\john\Downloads\StellarRepairforVideo (1).exe,2021-07-22 12:32:04,NA,False,Live Registry
+1,904,C:\Program Files (x86)\Stellar Repair for Video\EKAG20NT.EXE,2018-03-24 13:47:04,NA,False,Live Registry
+1,905,C:\Program Files (x86)\Stellar Repair for Video\unins000.exe,2021-07-22 12:32:14,NA,False,Live Registry
+1,906,C:\Program Files (x86)\Stellar Repair for Video\StellarRepairforVideo.exe,2020-01-31 11:28:20,NA,False,Live Registry
+1,907,C:\Users\john\AppData\Local\Temp\is-1KMOE.tmp\StellarRepairforVideo.tmp,2021-07-22 12:29:54,NA,False,Live Registry
+1,908,C:\Users\john\AppData\Local\Temp\is-3G56F.tmp\StellarRepairforVideo.tmp,2021-07-22 12:29:50,NA,False,Live Registry
+1,909,C:\Users\john\Downloads\StellarRepairforVideo.exe,2021-07-22 12:28:55,NA,False,Live Registry
+1,910,C:\Users\john\AppData\Local\Temp\_iu14D2N.tmp,2021-07-22 13:02:02,NA,False,Live Registry
+1,911,C:\Program Files (x86)\Kernel Video Repair\ffmpeg.exe,2019-11-13 02:02:28,NA,False,Live Registry
+1,912,C:\WINDOWS\SysWOW64\WerFault.exe,2021-07-22 07:50:37,NA,False,Live Registry
+1,913,C:\Program Files (x86)\Kernel Video Repair\KernelAppDecoder.exe,2020-01-20 15:55:26,NA,False,Live Registry
+1,914,C:\Program Files (x86)\Kernel Video Repair\unins000.exe,2021-07-22 12:24:55,NA,False,Live Registry
+1,915,C:\Program Files (x86)\Kernel Video Repair\Kernel Video Repair.exe,2021-04-15 13:43:18,NA,False,Live Registry
+1,916,C:\Users\john\AppData\Local\Temp\is-7QLNR.tmp\kernel-video-repair.tmp,2021-07-22 12:24:55,NA,False,Live Registry
+1,917,C:\Users\john\AppData\Local\Temp\is-0NPKG.tmp\kernel-video-repair.tmp,2021-07-22 12:24:49,NA,False,Live Registry
+1,918,C:\Users\john\Downloads\kernel-video-repair.exe,2021-07-22 12:24:30,NA,False,Live Registry
+1,919,C:\Program Files\WindowsApps\Microsoft.WebMediaExtensions_1.0.40831.0_x64__8wekyb3d8bbwe\Application,2021-06-07 18:56:12,NA,False,Live Registry
+1,920,00000009	000100009f7f0000	000a00004a610000	8664	Microsoft.WebMediaExtensions	8wekyb3d8bbwe	,,NA,False,Live Registry
+1,921,C:\Program Files\WindowsApps\Microsoft.ZuneVideo_10.21061.10121.0_x64__8wekyb3d8bbwe\Application,2021-07-22 12:19:30,NA,False,Live Registry
+1,922,C:\Users\john\Desktop\ShadowCopyView.exe,2020-09-23 13:47:50,NA,False,Live Registry
+1,923,C:\WINDOWS\system32\Robocopy.exe,2021-07-22 07:50:43,NA,False,Live Registry
+1,924,C:\WINDOWS\system32\runas.exe,2019-12-07 09:09:51,NA,False,Live Registry
+1,925,C:\WINDOWS\system32\vssadmin.exe,2019-12-07 09:09:51,NA,False,Live Registry
+1,926,F:\VS14-KB3092422.exe,2021-07-11 12:31:19,NA,False,Live Registry
+1,927,C:\Users\john\AppData\Local\Temp\i4jdel0.exe,2021-07-22 11:08:32,NA,False,Live Registry
+1,928,C:\PROGRA~1\rapid7\nexpose\nsc\bin\nexlaunch.exe,2016-05-13 19:08:18,NA,False,Live Registry
+1,929,C:\Windows\System32\timeout.exe,2019-12-07 09:09:51,NA,False,Live Registry
+1,930,C:\Windows\System32\findstr.exe,2019-12-07 09:09:33,NA,False,Live Registry
+1,931,C:\Windows\System32\tasklist.exe,2019-12-07 09:09:51,NA,False,Live Registry
+1,932,c:\PROGRA~1\rapid7\nexpose\_jvm1.8.0_252\bin\java.exe,2020-10-19 08:09:04,NA,False,Live Registry
+1,933,c:\Program Files\rapid7\nexpose\_jvm1.8.0_252\bin\java.exe,2020-10-19 08:09:04,NA,False,Live Registry
+1,934,C:\Windows\System32\conhost.exe,2021-07-22 07:50:16,NA,False,Live Registry
+1,935,C:\Program Files\rapid7\nexpose\.install4j\uninstall.exe,2020-10-14 11:22:42,NA,False,Live Registry
+1,936,C:\WINDOWS\system32\wscui.cpl,2021-07-22 07:50:50,NA,False,Live Registry
+1,937,C:\WINDOWS\system32\RTSnMg64.cpl,2019-04-11 18:04:02,NA,False,Live Registry
+1,938,C:\WINDOWS\system32\irprops.cpl,2019-12-07 09:09:51,NA,False,Live Registry
+1,939,C:\WINDOWS\system32\igfxCPL.cpl,2021-01-19 17:56:38,NA,False,Live Registry
+1,940,C:\WINDOWS\system32\ncpa.cpl,2021-07-22 07:50:24,NA,False,Live Registry
+1,941,C:\ProgramData\Cyvera\LocalSystem\Download\protected_payload_execution\cortex-xdr-payload.exe,2021-08-11 18:55:07,NA,False,Live Registry
+1,942,C:\Program Files\Mozilla Firefox\pingsender.exe,2021-06-25 12:17:40,NA,False,Live Registry
+1,943,C:\Program Files\Mozilla Firefox\default-browser-agent.exe,2021-06-25 12:17:41,NA,False,Live Registry
+1,944,C:\WINDOWS\system32\verclsid.exe,2019-12-07 09:09:09,NA,False,Live Registry
+1,945,00000009	07e5524423340000	000a00004a640000	8664	Microsoft.Windows.Photos	8wekyb3d8bbwe	,,NA,False,Live Registry
+1,946,C:\Program Files\WindowsApps\Microsoft.Windows.Photos_2021.21060.9012.0_x64__8wekyb3d8bbwe\Application,2021-07-22 10:05:48,NA,False,Live Registry
+1,947,C:\Program Files\WindowsApps\Microsoft.MicrosoftOfficeHub_18.2104.12721.0_x64__8wekyb3d8bbwe\LocalBridge.exe,2021-05-17 17:58:30,NA,False,Live Registry
+1,948,C:\Program Files\WindowsApps\Microsoft.MicrosoftOfficeHub_18.2104.12721.0_x64__8wekyb3d8bbwe\Application,2021-06-07 19:10:56,NA,False,Live Registry
+1,949,00000009	0012083831b10000	000a000042ee0000	8664	Microsoft.MicrosoftOfficeHub	8wekyb3d8bbwe	,,NA,False,Live Registry
+1,950,C:\Program Files\WindowsApps\Microsoft.Wallet_2.4.18324.0_x64__8wekyb3d8bbwe\Application,2021-07-21 21:13:55,NA,False,Live Registry
+1,951,00000009	0002000447940000	000a000042ee0000	8664	Microsoft.Wallet	8wekyb3d8bbwe	,,NA,False,Live Registry
+1,952,C:\WINDOWS\system32\launchtm.exe,2021-07-22 07:50:14,NA,False,Live Registry
+1,953,C:\Windows\ImmersiveControlPanel\SystemSettings.exe,2021-07-22 07:51:09,NA,False,Live Registry
+1,954,0000000b	000a0000000203e8	000a000045630001	8664	windows.immersivecontrolpanel	cw5n1h2txyewy	neutral,,NA,False,Live Registry
+1,955,C:\Users\john\AppData\Local\Temp\b1ebknnh.0ac\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-07-22 09:43:43,NA,False,Live Registry
+1,956,C:\Users\john\AppData\Local\Temp\00663053c74d46868fdac1c499d43170\vs_setup_bootstrapper.exe,2021-07-22 09:43:33,NA,False,Live Registry
+1,957,C:\WINDOWS\system32\defrag.exe,2021-07-22 07:50:43,NA,False,Live Registry
+1,958,C:\Users\john\AppData\Local\Microsoft\OneDrive\21.129.0627.0002\FileCoAuth.exe,2021-07-22 09:33:15,NA,False,Live Registry
+1,959,C:\Program Files\Microsoft Office\root\vfs\ProgramFilesCommonx64\Microsoft Shared\Office16\OLicenseHeartbeat.exe,2021-08-07 14:33:21,NA,False,Live Registry
+1,960,C:\Users\john\AppData\Local\Microsoft\OneDrive\21.129.0627.0002\FileSyncConfig.exe,2021-07-22 09:33:15,NA,False,Live Registry
+1,961,C:\Users\john\AppData\Local\Microsoft\OneDrive\Update\OneDriveSetup.exe,2021-08-05 10:57:48,NA,False,Live Registry
+1,962,C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\bin\HostX86\x86\mspdbsrv.exe,2020-10-19 16:21:56,NA,False,Live Registry
+1,963,C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\bin\HostX86\x86\cvtres.exe,2020-10-19 16:21:56,NA,False,Live Registry
+1,964,C:\Program Files (x86)\Windows Kits\10\bin\10.0.18362.0\x86\rc.exe,2019-03-18 16:43:54,NA,False,Live Registry
+1,965,C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\bin\HostX86\x86\link.exe,2020-10-19 16:21:56,NA,False,Live Registry
+1,966,C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Tracker.exe,2020-10-19 16:16:40,NA,False,Live Registry
+1,967,C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\MSBuild.exe,2020-10-19 16:16:38,NA,False,Live Registry
+1,968,C:\WINDOWS\system32\OpenWith.exe,2021-07-22 07:50:25,NA,False,Live Registry
+1,969,C:\Program Files\Microsoft Office\root\Office16\sdxhelper.exe,2021-08-12 17:02:45,NA,False,Live Registry
+1,970,C:\WINDOWS\system32\speech_onecore\common\SpeechModelDownload.exe,2021-07-22 07:50:11,NA,False,Live Registry
+1,971,C:\Program Files\WindowsApps\Microsoft.OneConnect_5.2011.3081.0_x64__8wekyb3d8bbwe\Application,2021-06-05 17:52:53,NA,False,Live Registry
+1,972,00000009	000507db0c090000	000a000042ee0000	8664	Microsoft.OneConnect	8wekyb3d8bbwe	,,NA,False,Live Registry
+1,973,C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\Git\mingw32\bin\git.exe,2020-10-19 16:16:29,NA,False,Live Registry
+1,974,C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\Git\cmd\git.exe,2020-10-19 16:16:29,NA,False,Live Registry
+1,975,C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\VC\vcpackages\VCPkgSrv.exe,2020-10-19 16:20:42,NA,False,Live Registry
+1,976,C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\bin\HostX86\x86\VCTIP.EXE,2020-10-19 16:21:56,NA,False,Live Registry
+1,977,C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\bin\HostX86\x86\cl.exe,2020-10-19 16:21:56,NA,False,Live Registry
+1,978,C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x86\ServiceHub.ThreadedWaitDialog.exe,2020-10-19 16:16:12,NA,False,Live Registry
+1,979,C:\Users\john\AppData\Local\MEGAsync\MEGAupdater.exe,2021-07-18 08:01:08,NA,False,Live Registry
+1,980,C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x86\ServiceHub.Host.CLR.x86.exe,2020-10-19 16:16:12,NA,False,Live Registry
+1,981,C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x86\ServiceHub.SettingsHost.exe,2020-10-19 16:16:12,NA,False,Live Registry
+1,982,C:\program files (x86)\microsoft visual studio\installer\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,2021-08-13 11:49:04,NA,False,Live Registry
+1,983,C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x86\ServiceHub.VSDetouredHost.exe,2020-10-19 16:16:12,NA,False,Live Registry
+1,984,C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x86\ServiceHub.IdentityHost.exe,2020-10-19 16:16:12,NA,False,Live Registry
+1,985,C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\ServiceHub\controller\Microsoft.ServiceHub.Controller.exe,2020-10-19 16:16:12,NA,False,Live Registry
+1,986,C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\PerfWatson2.exe,2020-10-19 16:16:10,NA,False,Live Registry
+1,987,C:\Program Files\WindowsApps\DellInc.DellSupportAssistforPCs_3.10.2.0_x64__htrsf667h5kn2\Application,2021-07-21 21:11:52,NA,False,Live Registry
+1,988,00000009	0003000a00020000	000a000047ba0000	8664	DellInc.DellSupportAssistforPCs	htrsf667h5kn2	,,NA,False,Live Registry
+1,989,C:\Program Files\Dell\SupportAssistAgent\bin\SupportAssistAppWire.exe,2021-07-16 22:29:20,NA,False,Live Registry
+1,990,C:\WINDOWS\system32\nslookup.exe,2019-12-07 09:08:52,NA,False,Live Registry
+1,991,C:\Program Files\Internet Explorer\IELowutil.exe,2019-12-07 09:09:39,NA,False,Live Registry
+1,992,C:\WINDOWS\system32\TRACERT.EXE,2019-12-07 09:09:33,NA,False,Live Registry
+1,993,C:\WINDOWS\system32\PING.EXE,2019-12-07 09:09:33,NA,False,Live Registry
+1,994,0000000b	000a00004a6103ff	000a00004a6103ff	8664	1527c705-839a-4832-9118-54d4Bd6a0c89	cw5n1h2txyewy	neutral,,NA,False,Live Registry
+1,995,0000000b	000a00004a6103ff	000a000042ee0000	8664	c5e2524a-ea46-4f67-841f-6a9465d9d515	cw5n1h2txyewy	neutral,,NA,False,Live Registry
+1,996,0000000b	000a00004a6103ff	000a00004a6103ff	8664	E2A4F912-2574-4A75-9BB0-0D023378592B	cw5n1h2txyewy	neutral,,NA,False,Live Registry
+1,997,0000000b	000a00004a6103ff	000a00004a6103ff	8664	F46D4000-FD22-4DB4-AC8E-4E1DDDE828FE	cw5n1h2txyewy	neutral,,NA,False,Live Registry
+1,998,0000000b	000a00004a6103ff	000a000038390000	8664	Microsoft.AsyncTextService	8wekyb3d8bbwe	,,NA,False,Live Registry
+1,999,0000000b	000a00004a6103ff	000a000000000000	8664	Microsoft.CredDialogHost	cw5n1h2txyewy	,,NA,False,Live Registry
+1,1000,0000000b	000a00004a6103ff	000a000038390000	8664	Microsoft.ECApp	8wekyb3d8bbwe	,,NA,False,Live Registry
+1,1001,0000000b	03e84a6103ff0000	000c000000000000	8664	Microsoft.MicrosoftEdgeDevToolsClient	8wekyb3d8bbwe	neutral,,NA,False,Live Registry
+1,1002,0000000b	000a00004a6103ff	000b000000000000	8664	Microsoft.Win32WebViewHost	cw5n1h2txyewy	neutral,,NA,False,Live Registry
+1,1003,0000000b	03e84a6103ff0000	000a000000000000	8664	Microsoft.Windows.Apprep.ChxApp	cw5n1h2txyewy	neutral,,NA,False,Live Registry
+1,1004,0000000b	03e84a6103ff0000	000a000000000000	8664	Microsoft.Windows.AssignedAccessLockApp	cw5n1h2txyewy	neutral,,NA,False,Live Registry
+1,1005,0000000b	000a00004a6103ff	000a00004a6103ff	8664	Microsoft.Windows.CapturePicker	cw5n1h2txyewy	,,NA,False,Live Registry
+1,1006,0000000b	000a00004a6103ff	000a0000452b0000	8664	Microsoft.Windows.NarratorQuickStart	8wekyb3d8bbwe	neutral,,NA,False,Live Registry
+1,1007,0000000b	03e84a6103ff0000	000a000000000000	8664	Microsoft.Windows.ParentalControls	cw5n1h2txyewy	neutral,,NA,False,Live Registry
+1,1008,0000000b	03e84a6103ff0000	000a000000000000	8664	Microsoft.Windows.PinningConfirmationDialog	cw5n1h2txyewy	,,NA,False,Live Registry
+1,1009,0000000b	000a00004a6103ff	000a00004a6103ff	8664	Microsoft.Windows.XGpuEjectDialog	cw5n1h2txyewy	neutral,,NA,False,Live Registry
+1,1010,C:\Windows\SystemApps\NcsiUwpApp_8wekyb3d8bbwe\Application,2021-07-22 04:25:19,NA,False,Live Registry
+1,1011,0000000b	000a00004a6103ff	000a000042990000	8664	Windows.CBSPreview	cw5n1h2txyewy	neutral,,NA,False,Live Registry
+1,1012,0000000b	0006000200010000	03e8456300010000	8664	Windows.PrintDialog	cw5n1h2txyewy	neutral,,NA,False,Live Registry
+1,1013,C:\Program Files (x86)\Citrix\ICA Client\AuthManager\AuthManSvr.exe,2021-03-22 23:43:30,NA,False,Live Registry
+1,1014,C:\Program Files (x86)\Citrix\ICA Client\Browser\CtxWebBrowser.exe,2021-05-03 00:39:44,NA,False,Live Registry
+1,1015,C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy\Application,2021-07-22 03:38:43,NA,False,Live Registry
+1,1016,0000000b	000a00004a6103ff	000a000000000000	8664	Microsoft.LockApp	cw5n1h2txyewy	,,NA,False,Live Registry
+1,1017,C:\WINDOWS\system32\dmclient.exe,2021-07-22 07:49:57,NA,False,Live Registry
+1,1018,C:\Users\john\AppData\Local\Microsoft\OneDrive\21.119.0613.0001\FileCoAuth.exe,2021-07-07 11:00:21,NA,False,Live Registry
+1,1019,C:\Windows\System32\oobe\UserOOBEBroker.exe,2021-07-22 07:50:24,NA,False,Live Registry
+1,1020,C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe,2020-12-02 22:45:24,NA,False,Live Registry
+1,1021,C:\WINDOWS\system32\printfilterpipelinesvc.exe,2021-07-22 07:49:57,NA,False,Live Registry
+1,1022,C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\Reader_sl.exe,2021-04-21 02:19:48,NA,False,Live Registry
+1,1023,C:\Program Files (x86)\Common Files\Adobe\ARM\1.0\AdobeARM.exe,2021-01-25 19:55:56,NA,False,Live Registry
