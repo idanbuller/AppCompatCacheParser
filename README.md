@@ -39,6 +39,7 @@ Then, I chose to create 3 different modules -
 * Drivers - the most common drivers appearing in the csv file.
 * Directories - the most common directories appearing in the csv file.
 * Extensions - the most common file extensions appearing in the csv file.
+
 These modules will help us to initiate a fine view while analyzing the Shincache entries in the csv file. We will have a big picture information about the usage on the system before compromised.
 
 ## Most Common Drivers
@@ -79,7 +80,7 @@ In this module, I am extracting the Path from the .CSV file as a string and usin
         plt.show()
 ```
 The output will be a fine and analytic plot with the information about the most common drivers used and cached - 
-![](img_src/drivers.png)
+![](img_src/drivers.PNG)
 As we can see, the C drive was the most common one in the last 1024 entries. D + F had only a few hits.
 
 ## Most Common Directories
@@ -126,7 +127,7 @@ In this module, I am extracting the Path from the .CSV file as a string and usin
         plt.show()
 ```
 The output will be a fine and analytic plot with the information about the most common directories used and cached -
-![](img_src/directories.png)
+![](img_src/directories.PNG)
 As we can see, the C:\Program Files directory was the most common one in the last 1024 entries. Also C:\Windowd\Temp and the Desktop had a few hits.
 
 ## Most Common Extensions
@@ -170,5 +171,5 @@ In this module, I am extracting the Path from the .CSV file as a string and usin
         plt.show()
 ```
 The output will be a fine and analytic plot with the information about the most common file extensions that used and cached - 
-![](img_src/extensions.png)
+![](img_src/extensions.PNG)
 As we can see, executable files were the most common ones in the last 1024 entries. Also .temp and many more had a few hits.
